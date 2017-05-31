@@ -8,5 +8,4 @@
 
 ----------
 
-<a href="index" rel="Go back">![link text](./assets/img/back.png "Go Back")</a>
-
+<a href="index" class="btn" >Go Back</a>

@@ -28,7 +28,7 @@
 6. [Create entity classes](./assets/tutorials/basic/6.md)
 7. [Create Spring JPA repositories](./assets/tutorials/basic/7.md)
 
-### Tutorial #3: Create Tests 
+### Tutorial #3: Create Tests
 8. Create Mock Tests
 
 ### Tutorial #4: Running Automated Tests in DevCS
@@ -42,9 +42,9 @@
 12. [Create Services and Services Implementation](./assets/tutorials/intermediate/12.md)
 
 ### Tutorial #7: Create REST Controllers
-13. [Implementing GET for getAll admins](./assets/tutorials/intermediate/13.md) 
+13. [Implementing GET for getAll admins](./assets/tutorials/intermediate/13.md)
 
-### Tutorial #8: Using Agile, Sprints with a development workflow 
+### Tutorial #8: Using Agile, Sprints with a development workflow
 14. [Using the Agile dashboard and Sprints](./assets/tutorials/intermediate/14.md)
 15. [Using Agile and a simple development workflow to deploy to ACCS](./assets/tutorials/intermediate/15.md)
 
@@ -79,7 +79,7 @@
 ### Tutorial #15: Add APM monitoring
 32. [Add APM monitoring]()
 
-### Tutorial #16: Adding JWT Authentication 
+### Tutorial #16: Adding JWT Authentication
 33. [Adding Authentication]()
 
 ### Tutorial #17: Create a UI Application
@@ -89,5 +89,4 @@
 
 ----------
 
-<a href="index" rel="Go back">![link text](./assets/img/back.png "Go Back")</a>
-
+<a href="index" class="btn" >Go Back</a>

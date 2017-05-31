@@ -26,5 +26,4 @@
 If you are interested in being a part on this project please contact ali.mukadam@oracle.com
 
 ---------
-<a href="index" rel="Go back">![link text](./assets/img/back.png "Go Back")</a>
-
+<a href="index" class="btn" >Go Back</a>

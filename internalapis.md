@@ -2,7 +2,7 @@
 ===================
 
 
-This page describes the APIs that are required as part of **v1** for the  **MedRecNG**. 
+This page describes the APIs that are required as part of **v1** for the  **MedRecNG**.
 
 ----------
 
@@ -52,8 +52,8 @@ The list below shows only those attributes that are required for v1. It is expec
 <br>
 > **/physician/{id}**   -- `Deletes Physician by Id.`
 
- 
-  
+
+
 Patient
 -------------
 
@@ -145,7 +145,7 @@ The list below shows only those attributes that are required for v1. It is expec
 > **/appointment/{id}**   -- `Deletes an appointment by Id.`
 
 
- 
+
 Prescriptions
 -------------
 
@@ -186,7 +186,7 @@ The list below shows only those attributes that are required for v1. It is expec
 <br>
 > **/prescription/{id}**   -- `Deletes a prescription by Id.`
 
-  
+
 Measures
 -------------
 
@@ -199,7 +199,7 @@ The list below shows only those attributes that are required for v1. It is expec
 - Patient Id
 - Name
 - Type
-- Recording device 
+- Recording device
 - Date of measure
 - Notes
 
@@ -223,7 +223,7 @@ The list below shows only those attributes that are required for v1. It is expec
 <br>
 > **/measure/patient/{id}**   -- `Deletes ALL existing patient's medical measures. - This API is merely used for maintenance purposes.`
 
-   
+
 
 Drugs
 -------------
@@ -308,5 +308,4 @@ The list below shows only those attributes that are required for v1. It is expec
 
 ----------
 
-<a href="index" rel="Go back">![link text](./assets/img/back.png "Go Back")</a>
-
+<a href="index" class="btn" >Go Back</a>
