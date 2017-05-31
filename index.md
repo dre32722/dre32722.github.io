@@ -23,7 +23,7 @@ It is hoped that this platform will encourage fun, learning and innovation from 
 
 <br>
 <center>
- <img src="./img/robotmedicine.jpg" width="250" height="200"><img src="./img/cozmoanki.jpg"  width="270" height="210">
+ <img src="./assets/img/robotmedicine.jpg" width="250" height="200"><img src=".assets//img/cozmoanki.jpg"  width="270" height="210">
 </center>
 
 
@@ -54,9 +54,9 @@ o	Others
 
 ----------
 
-| <a href="gitmedrecng" rel="GIT repo">![link text](./img/git.png "GIT")</a>  | <a href="teachme" rel="Teach Me">![link text](./img/teachMe.png "Teach Me")</a>  | 
-| <a href="externalapis" rel="External APIs">![link text](./img/externalapis.png "External APIs")</a>  | <a href="internalapis" rel="Internal APIs">![link text](./img/internalapis.png "GIT")</a>  |
-| <a href="team" rel="Team">![link text](./img/team.png "Team")</a>  | <a href="hackathons" rel="Hackathons">![link text](./img/hackathons.png "Hackathons")</a>  |
+| <a href="gitmedrecng" rel="GIT repo">![link text](./assets/img/git.png "GIT")</a>  | <a href="teachme" rel="Teach Me">![link text](./assets/img/teachMe.png "Teach Me")</a>  | 
+| <a href="externalapis" rel="External APIs">![link text](./assets/img/externalapis.png "External APIs")</a>  | <a href="internalapis" rel="Internal APIs">![link text](./assets/img/internalapis.png "GIT")</a>  |
+| <a href="team" rel="Team">![link text](./assets/img/team.png "Team")</a>  | <a href="hackathons" rel="Hackathons">![link text](./assets/img/hackathons.png "Hackathons")</a>  |
 
 
 ----------
