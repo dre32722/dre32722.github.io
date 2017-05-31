@@ -54,9 +54,9 @@ o	Others
 
 ----------
 
-| [Git Repository]("gitmedrecng.md")  | [Teach Me]("teachme.md") | 
-| [External APIs]("externalapis.md")  | [Internal API's]("internalapis.md") |
-| [Team]("team.md")  | [Hackathons]("hackathons.md") |
+| [Git Repository](gitmedrecng.md)  | [Teach Me](teachme.md) | 
+| [External APIs](externalapis.md)  | [Internal API's](internalapis.md) |
+| [Team](team.md)  | [Hackathons](hackathons.md) |
 
 ----------
 
