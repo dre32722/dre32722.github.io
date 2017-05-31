@@ -514,4 +514,4 @@ The list below shows only those attributes that are required for v1.
 
 ----------
 
-<a href="index" class="btn" rel="Go back">![link text](./assets/img/back.png "Go Back")</a>
+<a href="index" class="btn_back" rel="Go back"></a>
