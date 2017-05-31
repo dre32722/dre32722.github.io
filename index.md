@@ -54,7 +54,7 @@ o	Others
 
 ----------
 
-| <a href="gitmedrecng" rel="GIT repo">![link text](./assets/img/git.png "GIT")</a>  | <a href="teachme" rel="Teach Me">![link text](./assets/img/teachMe.png "Teach Me")</a>  | 
+| <a class="highlight" href="gitmedrecng" rel="GIT repo">![link text](./assets/img/git.png "GIT")</a>  | <a href="teachme" rel="Teach Me">![link text](./assets/img/teachMe.png "Teach Me")</a>  | 
 | <a href="externalapis" rel="External APIs">![link text](./assets/img/externalapis.png "External APIs")</a>  | <a href="internalapis" rel="Internal APIs">![link text](./assets/img/internalapis.png "GIT")</a>  |
 | <a href="team" rel="Team">![link text](./assets/img/team.png "Team")</a>  | <a href="hackathons" rel="Hackathons">![link text](./assets/img/hackathons.png "Hackathons")</a>  |
 
