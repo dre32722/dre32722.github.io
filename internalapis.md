@@ -308,5 +308,5 @@ The list below shows only those attributes that are required for v1. It is expec
 
 ----------
 
-<a href="index" rel="Go back">![link text](./img/back.png "Go Back")</a>
+<a href="index" rel="Go back">![link text](./assets/img/back.png "Go Back")</a>
 

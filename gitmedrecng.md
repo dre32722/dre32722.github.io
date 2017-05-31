@@ -27,5 +27,5 @@ $ mvn -Pdev spring-boot:run
 
 ----------
 
-<a href="index" rel="Go back">![link text](./img/back.png "Go Back")</a>
+<a href="index" rel="Go back">![link text](./assets/img/back.png "Go Back")</a>
 
