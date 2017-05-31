@@ -53,12 +53,10 @@ o	Others
 
 
 ----------
-[Git](./gitmedrecng.md)
 
-| <a href="gitmedrecng" rel="GIT repo">![link text]("GIT Repo") ["Git Repository"](http://barackd222) </a>  | <a href="teachme" rel="Teach Me">![link text]( "Teach Me")</a>  | 
-| <a href="externalapis" rel="External APIs">![link text]("External APIs")</a>  | <a href="internalapis" rel="Internal APIs">![link text]( "Internal APIs")</a>  |
-| <a href="team" rel="Team">![link text]( "Team")</a>  | <a href="hackathons" rel="Hackathons">![link text]( "Hackathons")</a>  |
-
+| [Git Repository]("./gitmedrecng.md")  | [Teach Me]("./teachme.md") | 
+| [External APIs]("./externalapis.md")  | [Internal API's]("./internalapis.md") |
+| [Team]("./team.md")  | [Hackathons]("./hackathons.md") |
 
 ----------
 
