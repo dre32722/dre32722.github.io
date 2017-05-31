@@ -23,7 +23,7 @@ It is hoped that this platform will encourage fun, learning and innovation from 
 
 <br>
 <center>
- <img src="./assets/img/robotmedicine.jpg" width="250" height="200"><img src=".assets//img/cozmoanki.jpg"  width="270" height="210">
+ <img src="./assets/img/robotmedicine.jpg" width="250" height="200"><img src="./assets/img/cozmoanki.jpg"  width="270" height="210">
 </center>
 
 
