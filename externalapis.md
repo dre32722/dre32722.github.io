@@ -26,7 +26,7 @@ The list below shows only those attributes that are required for v1.
 - Availability for appointment
 
 #### <i class="icon-file"></i> Sample JSON payload:
-    
+
 ```json
 {
   "Id": "Physician Id",
@@ -95,7 +95,7 @@ The list below shows only those attributes that are required for v1.
 - **DELETE** -- Delete existing physician(s)
 > **/physician/{id}**   -- `Deletes Physician by Id.`
 
- 
+
 <br>
 
 Patient
@@ -120,7 +120,7 @@ The list below shows only those attributes that are required for v1.
 - Medical measures `-- See "Measures"`
 
 #### <i class="icon-file"></i> Sample JSON payload:
-    
+
 ```json
 {
   "Id": "Patient Id",
@@ -237,7 +237,7 @@ The list below shows only those attributes that are required for v1.
 - Notes
 
 #### <i class="icon-file"></i> Sample JSON payload:
-    
+
 ```json
 {
   "MedicalAppointments": [
@@ -274,7 +274,7 @@ The list below shows only those attributes that are required for v1.
 
 
 <br>
- 
+
 Prescriptions
 -------------
 
@@ -293,7 +293,7 @@ The list below shows only those attributes that are required for v1.
 - Notes
 
 #### <i class="icon-file"></i> Sample JSON payload:
-    
+
 ```json
 {
   "Prescriptions": [
@@ -339,7 +339,7 @@ The list below shows only those attributes that are required for v1.
 > **/prescription/{id}**   -- `Deletes a prescription by Id.`
 
 <br>
-  
+
 Measures
 -------------
 
@@ -354,12 +354,12 @@ The list below shows only those attributes that are required for v1.
 - Patient Id
 - Name
 - Type
-- Recording device 
+- Recording device
 - Date of measure
 - Notes
 
 #### <i class="icon-file"></i> Sample JSON payload:
-    
+
 ```json
 {
   "MedicalMeasures": [
@@ -390,7 +390,7 @@ The list below shows only those attributes that are required for v1.
 - **DELETE** -- `Delete existing patient's medical measure(s)`
 > **/measure/patient/{id}**   -- `Deletes ALL existing patient's medical measures. - This API is merely used for maintenance purposes.`
 
-   
+
 <br>
 
 Drugs
@@ -411,7 +411,7 @@ The list below shows only those attributes that are required for v1.
 - Side effects
 
 #### <i class="icon-file"></i> Sample JSON payload:
-    
+
 ```json
 {
   "Drugs": [
@@ -468,7 +468,7 @@ The list below shows only those attributes that are required for v1.
 - Treatment
 
 #### <i class="icon-file"></i> Sample JSON payload:
-    
+
 ```json
 {
   "MedicalConditions": [
@@ -514,5 +514,4 @@ The list below shows only those attributes that are required for v1.
 
 ----------
 
-<a href="index" rel="Go back">![link text](./assets/img/back.png "Go Back")</a>
-
+<a href="index" class="btn" rel="Go back">![link text](./assets/img/back.png "Go Back")</a>
