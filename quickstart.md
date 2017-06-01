@@ -1,10 +1,10 @@
-**Anki-MedRec Platform - Get Started with GIT repository**
+**Anki-MedRec Platform - Quickstart**
 ===================
 
 
-**MedRec Next Generation Git Repository**
+# Medrec Microservices Documentation
 
-This tutorial describes breaking down a monolithic application into a microservices architecture. We'll use the Avitek Medical Records as our monolithic application.
+This tutorial describes breaking down a monolithic application into a microservices architecture. We'll use the Avitek Medical Records as our monolithic application. 
 
 ## What is Medrec?
 
@@ -18,13 +18,12 @@ This tutorial describes breaking down a monolithic application into a microservi
 
 1. Clone and run
 ```bash
-$ git clone https://github.com/barackd222/medrecng
-$ cd medrecng
+$ git clone https://developer.em2.oraclecloud.com/developer49570-gse00010209/s/developer49570-gse00010209_medrec_4250/scm/medrec.git
+$ cd medrec
 $ git checkout dev
 $ mvn -Pdev spring-boot:run
 ```
 
-
-----------
+2. Access the Swagger page: [http://localhost:8080](http://localhost:8080)
 
 <a href="index" class="btn" >Go Back</a>
