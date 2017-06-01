@@ -8,6 +8,13 @@
 .btn:hover {
     background-color: rgba(0, 128, 128, 1);
 }
+
+$hr-border-color: #eff0f1 !default;
+
 hr {
-height:1px; border:none; color:#157878; background-color:#157878; width:60%; text-align:center; margin: 0 auto;
-}
+    height: 2px;
+    padding: 0;
+    margin: 1rem 0;
+    background-color: $hr-border-color;
+    border: 0;
+  }
