@@ -4,7 +4,7 @@
 
 **MedRec Next Generation Git Repository**
 
-This tutorial describes breaking down a monolithic application into a microservices architecture. We'll use the Avitek Medical Records as our monolithic application. 
+This tutorial describes breaking down a monolithic application into a microservices architecture. We'll use the Avitek Medical Records as our monolithic application.
 
 ## What is Medrec?
 
@@ -27,5 +27,4 @@ $ mvn -Pdev spring-boot:run
 
 ----------
 
-<a href="index" rel="Go back">![link text](./assets/img/back.png "Go Back")</a>
-
+<a href="index" class="btn" >Go Back</a>
