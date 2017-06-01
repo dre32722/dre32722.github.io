@@ -11,7 +11,7 @@ The MedRec Platform is essentially a playpen with some basic elements at its cor
 
 With the core application and internal API’s locked down as Version 1, the MedRec Platform Playpen will then serve as a vehicle to overlay innovative ideas and implement them using various Cloud Services (IaaS, PaaS, SaaS) and Open Source software to demonstrate proof points around the ideas. 
 
-It is hoped that this platform will encourage fun, learning and innovation from a number of perspectives whether you are running a workshop, running a conference, or a hackathon or just self-learning around the following areas;
+It is hoped that this creative platform will encourage learning and innovation from a number of perspectives whether you are running a workshop, running a conference, or a hackathon or just self-learning around the following areas;
 - Ployglot Development (JEE, JavaScript, Python, Node,js etc)
 - API's
 - Integration
@@ -54,11 +54,9 @@ o	Others
 
 <hr />
 
-| [Git Repository](gitmedrecng.md)  | [Tutorials](teachme.md) | [External APIs](externalapis.md)  |
+| [Git Repository](gitmedrecng.md)  | [Tutorials](teachme.md) | <a href="http://dev-apis.oracleau.cloud:3006/" rel="External APIs">![link text](./img/externalapis.png "External APIs")</a> |
 | [Internal API's](internalapis.md) | [Team](team.md)        | [Hackathons](hackathons.md)       |
 
 <hr />
 
-<center>
-<a href="http://cloud.oracle.com">Powered by Oracle Public Cloud</a>
-</center>
+
