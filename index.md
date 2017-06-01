@@ -52,13 +52,12 @@ o	Others
 -	Anyone interested in improving their understanding of what makes a Cloud Based Digital Platform
 
 
-----------
+<hr />
 
-| [Git Repository](gitmedrecng.md)  | [Teach Me](teachme.md) | 
-| [External APIs](externalapis.md)  | [Internal API's](internalapis.md) |
-| [Team](team.md)  | [Hackathons](hackathons.md) |
+| [Git Repository](gitmedrecng.md)  | [Tutorials](teachme.md) | [External APIs](externalapis.md)  |
+| [Internal API's](internalapis.md) | [Team](team.md)        | [Hackathons](hackathons.md)       |
 
-----------
+<hr />
 
 <center>
 <a href="http://cloud.oracle.com">Powered by Oracle Public Cloud</a>
