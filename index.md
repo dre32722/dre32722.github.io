@@ -54,7 +54,7 @@ o	Others
 
 <hr />
 
-| [Git Repository](gitmedrecng.md)  | [Tutorials](teachme.md) | [External APIs](http://dev-apis.oracleau.cloud:3006/) (External APIs) |
+| [Git Repository](gitmedrecng.md)  | [Tutorials](teachme.md) | [External APIs](http://dev-apis.oracleau.cloud:3006/)|
 | [Internal API's](internalapis.md) | [Team](team.md)        | [Hackathons](hackathons.md)       |
 
 <hr />
