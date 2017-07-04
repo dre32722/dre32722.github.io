@@ -21,7 +21,9 @@ it will encourage learning and innovation from a number of perspectives whether 
 - Source Code Management and Control (GitHub)
 - Operating System (Linux)
 - Mobility, Chatbots, Robotics
-
+<br>
+<h1>Example using Valid Markdown and YouTube Thumbnail:</h1>
+<a href="https://www.youtube.com/watch?v=StTqXEQ2l-Y" rel="nofollow noreferrer" title="Everything Is AWESOME"><img src="https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg" alt="Everything Is AWESOME"></a>
 <br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=MDGg1r9CtCw&t=27s
 " target="_blank"><img src="https://img.youtube.com/vi/MDGg1r9CtCw/3.jpg" 
