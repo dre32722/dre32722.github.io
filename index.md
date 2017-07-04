@@ -23,8 +23,12 @@ it will encourage learning and innovation from a number of perspectives whether 
 - Mobility, Chatbots, Robotics
 
 <br>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=MDGg1r9CtCw&t=27s
+" target="_blank"><img src="https://img.youtube.com/vi/MDGg1r9CtCw/3.jpg" 
+alt="MedRec PlayPen APIs" width="240" height="180" border="10" /></a>
+<br>
 <center>
-[MedRec PlayPen APIs](https://img.youtube.com/vi/MDGg1r9CtCw/3.jpg)](https://www.youtube.com/watch?v=MDGg1r9CtCw&t=27s "Click for brief video - MedRec PlayPen")
+[MedRec PlayPen APIs](https://img.youtube.com/vi/MDGg1r9CtCw/3.jpg)]https://www.youtube.com/watch?v=MDGg1r9CtCw&t=27s "Click for brief video - MedRec PlayPen")
 </center>
 <center>
  <img src="./assets/img/robotmedicine.jpg" width="250" height="200"><img src="./assets/img/cozmoanki.jpg"  width="270" height="200">
@@ -46,12 +50,14 @@ The MedRec Platform Playpen supports a diverse range of users and activities, su
 -	University Students
 -	Anyone interested in improving their understanding of what makes a Cloud Based Digital Platform
 
-
-[Quickstart](quickstart.md)  | [Tutorials](tutorials.md) | 
-[Spring-Boot APIs](https://medrec-gse00010209.apaas.em2.oraclecloud.com/swagger.html) | 
+**MedRec Version 2**
 [External APIs](http://dev-apis.oracleau.cloud:3006/) |
 [Hackathons](hackathons.md) | [OracleCode HOL](handsonlabs.md) |
-
+<br>
+**MedRec Version 1 (Java Spring-Boot based initiative)**
+[Quickstart](quickstart.md)  | [Tutorials](tutorials.md) | 
+[Spring Boot APIs](https://medrec-gse00010209.apaas.em2.oraclecloud.com/swagger.html) | 
+<br>
 <sub> If you are interested in contributing, please contact [Franco Ucci](franco.ucci@oracle.com) | [Ali Mukadam](ali.mukadam@oracle.com) | [David Reid](david.m.reid@oracle.com) </sub>
 
 <hr />
