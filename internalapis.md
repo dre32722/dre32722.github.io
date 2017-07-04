@@ -308,4 +308,6 @@ The list below shows only those attributes that are required for v1. It is expec
 
 ----------
 
-<a href="index" class="btn" >Go Back</a>
+<hr />
+<a href="index" class="btn" >Go Back Home</a>
+<hr />

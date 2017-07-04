@@ -8,4 +8,6 @@
 
 ----------
 
-<a href="index" class="btn" >Go Back</a>
+<hr />
+<a href="index" class="btn" >Go Back Home</a>
+<hr />

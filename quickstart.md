@@ -26,4 +26,7 @@ $ mvn -Pdev spring-boot:run
 
 2. Access the Swagger page: [http://localhost:8080](http://localhost:8080)
 
-<a href="index" class="btn" >Go Back</a>
+<hr />
+<a href="index" class="btn" >Go Back Home</a>
+<hr />
+
