@@ -22,16 +22,13 @@ it will encourage learning and innovation from a number of perspectives whether 
 - Operating System (Linux)
 - Mobility, Chatbots, Robotics
 <br>
-<h1>Example using Valid Markdown and YouTube Thumbnail:</h1>
-<a href="https://www.youtube.com/watch?v=StTqXEQ2l-Y" rel="nofollow noreferrer" title="Everything Is AWESOME"><img src="https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg" alt="Everything Is AWESOME"></a>
+<h1>Getting Started Video:</h1>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=MDGg1r9CtCw&t=27s" rel="nofollow noreferrer" title="MedRec API PlayPen Video"><img src="https://img.youtube.com/vi/MDGg1r9CtCw/3.jpg" alt="MedRec API PlayPen Video"width="240" height="180" border="10" /></a>
 <br>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=MDGg1r9CtCw&t=27s
-" target="_blank"><img src="https://img.youtube.com/vi/MDGg1r9CtCw/3.jpg" 
-alt="MedRec PlayPen APIs" width="240" height="180" border="10" /></a>
 <br>
-<center>
-[MedRec PlayPen APIs](https://img.youtube.com/vi/MDGg1r9CtCw/3.jpg)]https://www.youtube.com/watch?v=MDGg1r9CtCw&t=27s "Click for brief video - MedRec PlayPen")
-</center>
+<h1>Where Do You Want To Take This? Community Involvement:</h1>
+<br>
+The API's are a place to start, a beginning. We have created something that isn't perfect but the APIs are functional. We know that there are lots of smart people out there who like to explore, experiment and improve things. Why not fork the git repository and start with your idea to improve. Maybe you want to add more capability into the API implementation, or maybe you want to add additional APIs or maybe you want to connect a wearable device or an Anki-Cozmo robot to interact with the APIs. 
 <center>
  <img src="./assets/img/robotmedicine.jpg" width="250" height="200"><img src="./assets/img/cozmoanki.jpg"  width="270" height="200">
 </center>
