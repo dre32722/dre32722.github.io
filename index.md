@@ -22,8 +22,9 @@ it will encourage learning and innovation from a number of perspectives whether 
 - Operating System (Linux)
 - Mobility, Chatbots, Robotics
 <br>
-<h1>Getting Started Video:</h1>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=MDGg1r9CtCw&t=27s" rel="nofollow noreferrer" title="MedRec API PlayPen Video"><img src="https://img.youtube.com/vi/MDGg1r9CtCw/3.jpg" alt="MedRec API PlayPen Video"width="240" height="180" border="10" /></a>
+**Getting Started Video:**
+<br>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=MDGg1r9CtCw&t=27s" rel="nofollow noreferrer" title="MedRec API PlayPen Video"><img src="https://img.youtube.com/vi/MDGg1r9CtCw/3.jpg" alt="MedRec API PlayPen Video" width="240" height="180" border="10"/></a>
 <br>
 <br>
 <h1>Where Do You Want To Take This? Community Involvement:</h1>
