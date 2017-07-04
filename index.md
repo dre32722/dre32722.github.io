@@ -48,9 +48,9 @@ The MedRec Platform Playpen supports a diverse range of users and activities, su
 
 
 [Quickstart](quickstart.md)  | [Tutorials](tutorials.md) | 
-[Internal APIs](https://medrec-gse00010209.apaas.em2.oraclecloud.com/swagger.html) | 
-[Draft External APIs](http://dev-apis.oracleau.cloud:3006/) |
-[Hackathons](hackathons.md) | [Hands On Lab Guide](handsonlabs.md) |
+[Spring-Boot APIs](https://medrec-gse00010209.apaas.em2.oraclecloud.com/swagger.html) | 
+[External APIs](http://dev-apis.oracleau.cloud:3006/) |
+[Hackathons](hackathons.md) | [OracleCode HOL](handsonlabs.md) |
 
 <sub> If you are interested in contributing, please contact [Franco Ucci](franco.ucci@oracle.com) | [Ali Mukadam](ali.mukadam@oracle.com) | [David Reid](david.m.reid@oracle.com) </sub>
 
