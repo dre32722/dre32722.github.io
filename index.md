@@ -23,7 +23,9 @@ MedRec NG will serve as a vehicle to overlay innovative ideas and implement them
 <br>
 ## Getting Started Video (< 5 minutes):
 <br>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=MDGg1r9CtCw&t=27s" rel="nofollow noreferrer" title="MedRec API PlayPen Video"><img src="https://img.youtube.com/vi/MDGg1r9CtCw/3.jpg" alt="MedRec API PlayPen Video" width="240" height="180" border="10"/></a>
+<center>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=MDGg1r9CtCw&t=27s" rel="nofollow noreferrer" title="MedRec API PlayPen Video"><img src="https://img.youtube.com/vi/MDGg1r9CtCw/3.jpg" alt="MedRec API PlayPen Video" width="360" height="240" border="10"/></a>
+</center>
 <br>
 <br>
 
