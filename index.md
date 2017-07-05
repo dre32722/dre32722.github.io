@@ -65,12 +65,12 @@ You may decide to add more capability into the API implementation, or add additi
 <br>
 This scope of work was used to experiment with Open Source Logging and Monitoring capabilities.
 If you are interested there are some detailed tutorials to follow.
-Unfortunately the APIs aren't currently compatible with the v2 APIs. This may be addressed in a future update.
+Unfortunately the V1 APIs vary in shape from the v2 APIs. This may be addressed in a future update.
 <br>
 [Quickstart](quickstart.md)  | [Tutorials](tutorials.md) | 
 [Spring Boot APIs](https://medrec-gse00010209.apaas.em2.oraclecloud.com/swagger.html) | 
 <br>
-<sub> If you are interested in contributing, please contact [Franco Ucci](franco.ucci@oracle.com) | [Ali Mukadam](ali.mukadam@oracle.com) | [David Reid](david.m.reid@oracle.com) </sub>
+<sub> If you are interested in contributing, please contact [Franco Ucci](franco.ucci@oracle.com) | [Ali Mukadam](ali.mukadam@oracle.com) | [Jason Lowe](jason.lowe@oracle.com) | [David Reid](david.m.reid@oracle.com) | [Carlos Rodriguez Iturria](carlos.rodriguez.iturria@oracle.com)</sub>
 
 <hr/>
 
