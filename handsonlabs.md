@@ -12,12 +12,14 @@
 ---- VirtualBox install + osboxes image? disclaimer, min versions?
 
 ### Tutorial #2: Setup the development environment
-2. [Git](./assets/tutorials/basic/installgit.md)
-3. [Node.js](./assets/tutorials/basic/installnodejs.md)
-4. [MongoDB](./assets/tutorials/basic/installmongodb.md)
-5. [Python](./assets/tutorials/basic/installpython.md)
-6. [Docker](./assets/tutorials/basic/installdocker.md)
-7. [Docker-Compose](./assets/tutorials/basic/installdockercompose.md)
+2. [Git](./assets/handsonlabs/installgit.md)
+3. [Node.js](./assets/handsonlabs/installnodejs.md)
+4. [MongoDB](./assets/handsonlabs/installmongodb.md)
+5. [Python](./assets/handsonlabs/installpython.md)
+6. [Docker](./assets/handsonlabs/installdocker.md)
+7. [Docker-Compose](./assets/handsonlabs/installdockercompose.md)
+7. [Postman](./assets/handsonlabs/installpostman.md)
+
 
 ### Tutorial #1: Setting up the project
 
