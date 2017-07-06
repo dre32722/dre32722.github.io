@@ -57,7 +57,7 @@ You may decide to add more capability into the API implementation, or add additi
 <br>
 ## MedRec Version 2(Node.js / MongoDB)
 <br>
-[APIs](https://developers.oracleau.cloud) |
+[APIs](http://developers.oracleau.cloud) |
 [OracleCode HandsOnLab](handsonlabs.md) | [Hackathons](hackathons.md) |
 <br>
 <br>

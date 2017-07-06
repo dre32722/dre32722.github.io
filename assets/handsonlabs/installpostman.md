@@ -4,7 +4,7 @@
 ## Installation of Postman
 
 This section will help you deploy the Postman REST Client software that can be used to test the MedRec APIs.
-Follow the steps for your operating system as per https://www.getpostman.com/docs/postman/launching_postman/installation_and_updates
+Follow the steps for your operating system as per [Postman Install Steps](https://www.getpostman.com/docs/postman/launching_postman/installation_and_updates)
 
 <br>
 
