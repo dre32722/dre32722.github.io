@@ -6,16 +6,16 @@
 This section will help you 
 
 Launch Python
- <img src="./img/postman1.PNG" width="250" height="200">
+ <img src="./img/postman1.PNG" width="750" height="700">
 
 Cover how to use Postman to generate Client Code - for example Python snippet 
- <img src="./img/postman2.PNG" width="250" height="200">
+ <img src="./img/postman2.PNG" width="750" height="700">
 
 Cut the snippet 
 Point your browser to https://www.tutorialspoint.com/execute_python3_online.php
- <img src="./img/pythoneditor1.PNG" width="250" height="200">
+ <img src="./img/pythoneditor1.PNG" width="750" height="700">
 Press Execute to see Hello World returned
- <img src="./img/pythoneditor2.PNG" width="250" height="200">
+ <img src="./img/pythoneditor2.PNG" width="750" height="700">
 Now click the + in the left pane and paste your buffer into the new file... 
 remove the line 
 rename and save the file
