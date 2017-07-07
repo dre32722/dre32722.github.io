@@ -26,6 +26,7 @@
 1. [Fork the MedRec API Git project](./assets/handsonlabs/forkthemedrecapigitrepo.md) 
 2. [Run the Node API application](./assets/handsonlabs/runtheapislocally.md)
 3. [Access the APIs using SwaggerUI](./assets/handsonlabs/exploretheapis-1.md)
+4. [Explore the APIs using Postman Client](./assets/handsonlabs/exploretheapis-3.md)
 <br>
 ### Downloading the python client application code 
 <br>
@@ -38,21 +39,22 @@
 <br>
 Assuming the docker container is up and running locally, choose your preferred client from the following options in order to interact with the REST APIs and prove that it all still works.
 2. [Explore the APIs using SwaggerUI](./assets/handsonlabs/exploretheapis-1.md)
-3. [Explore the APIs using Python](./assets/handsonlabs/exploretheapis-2.md)
-4. [Explore the APIs using Postman Client](./assets/handsonlabs/exploretheapis-3.md)
+3. [Either Explore the APIs using local Python](./assets/handsonlabs/exploretheapis-2.md)
+4. [And / Or Explore the APIs using an online Python service](./assets/handsonlabs/exploretheapis-4.md)
 <br>
 ### Running the APIs on the Oracle Container Cloud Service
 <br>
 Next you will login to the Oracle Container Cloud Service (OCCS) and create a stack definition for the MedRec APi (web and mongodb tier).
 <br>
-1. [Create a Stack on the Oracle Container Cloud Service](./assets/handsonlabs/createtheoccsstack.md)
+1. [Run the Node API and Mongo Stack on the Oracle Container Cloud Service](./assets/handsonlabs/createtheoccsstack.md)
 <br>
-### Build the Docker Image and run up the APIs lcoally using Docker
 <br>
-1. [Setting up a basic project](./assets/handsonlabs/buildthedockerimage.md)
-2. [Setting up a basic project](./assets/tutorials/basic/1.md) -------------- git fork
-
+1. [Optional Lab - Clone and Run the Vue User Interface to connect to the APIs locally](./assets/handsonlabs/createtheoccsstack.md)
+1. [Optional Lab - Clone and Run the Vue User Interface to connect to the APIs on the Oracle API Platform](./assets/handsonlabs/createtheoccsstack.md)
+<br>
 <hr />
+<center>
 <a href="index" class="btn" >Go Back Home</a>
+</center>
 <hr />
 
