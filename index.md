@@ -1,16 +1,15 @@
-**Anki-MedRec Platform**
+**The Anki-MedRec Platform**
 ===================
 
 
-MedRec NG is essentially an experimental platform with some basic elements at its core such as:
+The Anki-MedRec initiative is essentially an experimental platform with some basic elements at its core such as:
  
 - a System of Record (Avitek- MedRec) to act as a discussion point around Systems of Record, and the need to differentiate and innovate outside of the Systems of Record.
 - a re-developed version of the MedRec demo application based on a Microservices based approach to deliver learnings around developing Cloud Native Applications and DevOps.
 - some basic CRUD APIs against MedRec to provide a starting point upon which participants can bring their innovative ideas to explore and prove.
-- a modern User Interface leveraging the new microservices-based APIs to demonstrate what is required and possible when improving customer experience.
+- a sample User Interface that interacts with the new microservices-based APIs to demonstrate what is required and possible when improving customer experience.
 
-
-MedRec NG will serve as a vehicle to overlay innovative ideas and implement them using various Cloud Services (IaaS, PaaS, SaaS) and Open Source software. We hope that it will encourage learning and innovation from a number of perspectives whether you are running a workshop, running a conference, a hackathon or just self-learning around the following areas:
+The Anki-MedRec will serve as a vehicle to overlay innovative ideas and implement them using various Cloud Services (IaaS, PaaS, SaaS) and Open Source software. We hope that it will encourage learning and innovation from a number of perspectives whether you are running a workshop, running a conference, a hackathon or just self-learning around the following areas:
 
 - Polyglot Development (Java, JavaScript, Python, Node.js etc)
 - APIs
@@ -19,22 +18,22 @@ MedRec NG will serve as a vehicle to overlay innovative ideas and implement them
 - Containers
 - Source Code Management and Control (GitHub)
 - Operating System (Linux)
-- Mobility, Chatbots, Robotics
-<br>
-## Getting Started Video (< 5 minutes):
-<br>
-<center>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=MDGg1r9CtCw&t=27s" rel="nofollow noreferrer" title="MedRec API PlayPen Video"><img src="https://img.youtube.com/vi/MDGg1r9CtCw/3.jpg" alt="MedRec API PlayPen Video" width="360" height="240" border="10"/></a>
-</center>
-<br>
-<br>
+- Mobility, Chatbots, Robotics (including Cozmo from Anki)
 
 <center>
  <img src="./assets/img/robotmedicine.jpg" width="250" height="200"><img src="./assets/img/cozmoanki.jpg"  width="270" height="200">
 </center>
 
-## Who is this for?
+So by now you have already worked it out, we have developed the API's to help us to get to do some creative, fun, learning real fast.
 
+## Watch our Overview Video (< 5 minutes):
+<br>
+<center>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=MDGg1r9CtCw&t=27s" rel="nofollow noreferrer" title="MedRec API PlayPen Video"><img src="https://img.youtube.com/vi/MDGg1r9CtCw/3.jpg" alt="MedRec API PlayPen Video" width="360" height="240" border="10"/></a>
+</center>
+<br>
+## Who is this for?
+<br>
 The MedRec Platform Playpen supports a diverse range of users and activities, such as:
 
 -	Business Managers walking through functional demonstrations of a Digital Platform
@@ -51,14 +50,14 @@ The MedRec Platform Playpen supports a diverse range of users and activities, su
 
 ## Where could this go? Community Involvement:
 <br>
-The Node.js API's are a place to start, a beginning. We have created something that we know isn't perfect or robust but the APIs are functional. For instance. you can add Physicians,Patients, create prescriptions and record Observations. We know that there are lots of smart people out there who like to explore, experiment and improve things, so if you are interested, why not fork the git repository and start with your idea to improve. 
+The Node.js API's are a place to start, a beginning. We have created something that we know isn't perfect or particularly robust but the APIs seem to be functional. For instance. you can add Physicians,Patients, create prescriptions and record Observations. We know that there are lots of smart people out there who like to explore, experiment and improve things, so if you are interested, why not fork the git repository and start with your idea to improve. 
 <br>
 You may decide to add more capability into the API implementation, or add additional APIs or maybe you want to connect a wearable device or an Anki-Cozmo robot to interact with the APIs. 
 <br>
 ## MedRec Version 2(Node.js / MongoDB)
 <br>
-[APIs](http://developers.oracleau.cloud) |
-[OracleCode HandsOnLab](handsonlabs.md) | [Hackathons](hackathons.md) |
+[Register to access the APIs](http://developers.oracleau.cloud) |
+[OracleCode HandsOn Lab](handsonlabs.md) | [Hackathons](hackathons.md) |
 <br>
 <br>
 ## MedRec Version 1 (Java Spring-Boot based initiative)
