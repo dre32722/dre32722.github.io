@@ -4,22 +4,27 @@ Thank you for your interest in the Anki-MedRec Hands On Lab (HOL) at the Oracle 
 
 Please complete the following steps prior to the event.
 
-1. Sign up for $500 free credit on Oracle Cloud by going to: <SPECIAL URL FOR CODE SYDNEY> 
-(Is this offer still valid) ????
+
+1. Sign up for your free trial on the Oracle Cloud by going to URL provided in the registration email
+
    Note : You must use the same email address as you used to register for Oracle Code.
 
-2. As part of the HOL there will be plenty of time to install the required software (Git, Python, Node.js,
-   MongoDB, Docker, Docker-compose) and the application (API) implementation code. 
+2. As part of the HOL there will be time provided to install the required software (Git, Python, Node.js,
+   MongoDB, Docker, Docker-compose) and the application (API) implementation code. However, as developers   
+   environments may vary considerably it would be beneficial to action the install of the software in your
+   local; environment ahead of the event. 
 
    Please note that the software installation instructions were developed using an Ubuntu 16:04 image.
    The easiest path forward will be for you to mirror the base environment. 
+
    For those who want to mirror the environment please do the following;
    a) Download VirtualBox software - https://www.virtualbox.org/wiki/Downloads 
    b) Download Ubuntu 16.04 (64 bit) VBox Image from http://www.osboxes.org/ubuntu/
    
    Steps will vary for Mac, other flavours of Linux and Windows.
 
-   Note : Minimum software versions for the Hands-On Lab requires Windows 7, Windows 10 or Mac OS X. 
+   Note : Minimum software versions for the Hands-On Lab requires Windows 7, Windows 10, Ubuntu 16.04 
+   or Mac OS X. Other systems may work fine but havent been tested.
 
 3. Assuming you dont already have an account on GitHub, then create an account on GitHub 
    https://github.com/ , Click Sign Up.

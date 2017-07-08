@@ -1,53 +1,43 @@
-# Anki-Medrec - External APIs - Node.js & MongoDB
+## Hands On Labs
 
-
-
-## Installation
-
-This sections will help you deploy the different packages required to run this Application. This includes: NodeJS, MongoDB and Git.
-
-Note: I use Ubuntu Linux distribution, adjust accordingly if using other OS (e.g. "yum" if using Fedora based distributions).
+- Oracle Code Sydney July 2017
 
 ### 1. Install NodeJS
 
-The first step is to ensure that you have installed NodeJS, MongoDB and Git in your environment. In case you know that you have already installed them, feel free to move to step number 2. Otherwise if you are unsure, continue with the following assessment:
+This section provides instructions for you to install Node.js. 
+The Node.js install is required to run the MedRec application.
 
-Validate the installation of the required components (one at a time):
-<br>
-nodejs --version
-<br>
+Note: I used the Ubuntu 16.04 Linux distribution, you may need to adjust the commands according to that required by your target operating system. For instance, if using other Fedora based OS then yum install of apt-get.
 
-#### 1.1 Install NodeJS (if not already installed)
+The first step is to checkl to see if you already have Node.js installed.
+In case you know that you have already have it installed, then skip and move to the next stage.
+If you are unsure, continue with the following:
 
-<br>
-sudo apt-get install curl -y
-sudo curl -sL https://deb.nodesource.com/setup_4.x |
-sudo -E bash –
-sudo apt-get install nodejs -y 
-<br>
+Validate the current version of the Node.js software (if installed):
+
+*nodejs --version*   or *node --version*
+
+### 1.1 Install NodeJS (if not already installed)
+
+*sudo apt-get install curl -y*
+*sudo curl -sL https://deb.nodesource.com/setup_4.x | sudo -E bash –*
+*sudo apt-get install nodejs -y *
+
 Validate the NodeJS installation:
-<br>
-node --version
-<br>
-You should get a valid version. I used NodeJS version 4.8.0 while building this application.
 
-For more information about using NodeJS [visit this page](https://nodejs.org/en/download/package-manager/). 
+*nodejs --version* or *node --version*
 
+You should get a valid version returned. 
+Note: I used NodeJS version 4.8.0 while building this application.
 
-<br>
-
-#### What next? 
-
-If you want to move your application into the Cloud, consider Oracle Application Container Cloud Service as a simple way to fast-track its enablemnet and future scalability [Click here for more information](https://cloud.oracle.com/acc).
-
-<br>
-<br>
+For more information about using NodeJS [Visit Nodejs.org](https://nodejs.org/en/download/). 
 
 * No warranty expressed or implied.  Software is as is.
 * [MIT License](http://www.opensource.org/licenses/mit-license.html)
 
-
 <hr />
+<center>
 <a href="handsonlabs" class="btn" >Back to Hands On Lab Menu</a>
+<center />
 <hr />
 
