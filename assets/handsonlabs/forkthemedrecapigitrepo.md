@@ -19,7 +19,7 @@ With your cursor in the repository search bar (circled in red)
 
 <img src="./img/git3.PNG" />
 
-Enter the following search criteria: **barackd222/anki-mkedrecapis** and press Enter.
+Enter the following search criteria: **barackd222/anki-medrecapis** and press Enter.
 
 <img src="./img/git4.PNG" />
 
@@ -31,6 +31,35 @@ Now click the hyperlink to navigate to the barackd222/ankimedrec-apis repository
 Click the fork button (circled in red) to create a copy of the anki-medrecapis repository in your account.
 
 <img src="./img/git6.PNG" />
+
+Enter https://github.com/yourusername into the browser to navigate to your home page.
+Navigate to the repository just created when you used the git fork.
+If you have a lot of repositories you may have to click the *repositories* link.
+
+<img src="./img/git7.PNG" />
+
+Once you find the repository click the hyperlink *ankimedrec-apis*
+
+<img src="./img/git8.PNG" />
+
+Now click on the Clone or Download button.
+
+<img src="./img/git9.PNG" />
+
+You will now see the URL that points to your git repository.
+Copy the link as you will paste into your git clone command in the next step.
+
+<img src="./img/git10.PNG" />
+
+Next change into a directory on your laptop where you want to pull down the github project into (eg **/home/dave/myprojects**).
+
+*cd /home/foo/gitprojects*
+
+*git clone https://github.com/yourusername/ankimedrec-apis.git*
+
+You should now the see a sub-directory created with the files cloned down from your github repository.
+
+<img src="./img/git11.PNG" />
 
 * No warranty expressed or implied.  Software is as is.
 * [MIT License](http://www.opensource.org/licenses/mit-license.html)
