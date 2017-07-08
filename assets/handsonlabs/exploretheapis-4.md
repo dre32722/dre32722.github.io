@@ -1,7 +1,7 @@
 
 # Explore the APIs using an Online Python Service
 
-One of the nice thing about modern APIs, is that we can choose our favourite programming language to access the them. In this section of the handson lab you will 
+One of the nice thing about modern APIs, is that we can choose our favourite programming language to access them. In this section of the handson lab you will 
 
 ## Get the code snippet from Postman
 If you have been following through the handson labs you will already have a Postman collection with your Get and Post operations to access the APIs already saved. 
@@ -19,6 +19,13 @@ Copy the code snippet to the clipboard buffer.
 <img src="./img/postman1a.PNG"/>
 <br>
 ## Paste and run the Get Physicians code snippet into an online Python service
+<br>
+Once you copied the Python snippet then you can run it wherever you want. 
+There are several options that you may consider;
+1. Run it in your own existing Python environment,
+2. Install python locally and run it there 
+3. Download a Python docker image from Docker hub
+4. For simple scenarios such as what we want to cover, you could simply use a browser-based IDE offering such as what * [TutorialPoints.com](http://tutorialPoints.com) offer, as per the steps below.
 <br>
 Point your browser to [TutorialsPoint Python](https://www.tutorialspoint.com/execute_python3_online.php)
 <br>
