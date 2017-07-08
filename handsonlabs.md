@@ -25,7 +25,7 @@
 
 ### Downloading the python client application code 
 
-- [Fork the MedRec API Git project](./assets/handsonlabs/forkthemedrecpythongitrepo.md) 
+- [Fork the MedRec Python Git project](./assets/handsonlabs/forkthemedrecpythongitrepo.md) 
 - [Access the APIs using Python](./assets/handsonlabs/exploretheapis-2.md)
 
 ### Build the Docker Image and run up the APIs lcoally using Docker
