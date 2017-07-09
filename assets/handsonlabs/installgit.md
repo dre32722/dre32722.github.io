@@ -35,7 +35,7 @@ Please adjust accordingly if using a different Linux OS (e.g. "yum" if using Fed
 
 <hr />
 <center>
-<a href="handsonlabs" class="btn" >Back to Hands On Lab Menu</a>
+<a href="../../handsonlabs" class="btn" >Back to Hands On Lab Menu</a>
 <center />
 <hr />
 

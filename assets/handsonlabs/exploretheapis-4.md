@@ -63,7 +63,7 @@ You should see the Physicians you added earlier plus the one you just added.
 <br>
 <hr />
 <center>
-<a href="handsonlabs" class="btn" >Back to Hands On Lab Menu</a>
+<a href="../../handsonlabs" class="btn" >Back to Hands On Lab Menu</a>
 <center/>
 <hr />
 

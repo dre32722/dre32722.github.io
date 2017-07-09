@@ -12,7 +12,7 @@ Follow the steps for your operating system as per [Postman Install](https://www.
 
 <hr />
 <center>
-<a href="handsonlabs" class="btn" >Back to Hands On Lab Menu</a>
+<a href="../../handsonlabs" class="btn" >Back to Hands On Lab Menu</a>
 <center />
 <hr />
 

@@ -39,7 +39,7 @@ You should see the SwaggerUI displayed as per the following screenshot.
 
 <hr />
 <center>
-<a href="handsonlabs" class="btn" >Back to Hands On Lab Menu</a>
+<a href="../../handsonlabs" class="btn" >Back to Hands On Lab Menu</a>
 <center />
 <hr />
 

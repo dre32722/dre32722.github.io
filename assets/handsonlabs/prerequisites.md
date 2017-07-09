@@ -1,4 +1,8 @@
-# Anki-Medrec - Hands On Lab - Pre-Requisite Steps
+## Hands On Labs
+
+- Oracle Code Sydney July 2017
+
+### Anki-Medrec - Hands On Lab - Pre-Requisite Steps
 
 Thank you for your interest in the Anki-MedRec Hands On Lab (HOL) at the Oracle Code event in Sydney.
 
@@ -10,7 +14,7 @@ Please complete the following steps prior to the event.
    Note : You must use the same email address as you used to register for Oracle Code.
 
 2. As part of the HOL there will be time provided to install the required software (Git, Python, Node.js,
-   MongoDB, Docker, Docker-compose) and the application (API) implementation code. However, as developers   
+   MongoDB, Docker, Docker-compose) and the application (API) implementation code. However, as developers 
    environments may vary considerably it would be beneficial to action the install of the software in your
    local; environment ahead of the event. 
 
@@ -39,7 +43,7 @@ Please complete the following steps prior to the event.
 * [MIT License](http://www.opensource.org/licenses/mit-license.html)
 
 <hr />
-<a href="handsonlabs" class="btn" >Back to Hands On Lab Menu</a>
+<a href="../../handsonlabs" class="btn" >Back to Hands On Lab Menu</a>
 <hr />
 
 

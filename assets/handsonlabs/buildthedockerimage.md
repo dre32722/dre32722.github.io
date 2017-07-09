@@ -1,7 +1,8 @@
-# Anki-Medrec APIs
+## Hands On Labs
 
+- Oracle Code Sydney July 2017
 
-## Build the Docker Image
+### Build the Docker Image
 
 This section will help you 
 
@@ -11,6 +12,8 @@ This section will help you
 * [MIT License](http://www.opensource.org/licenses/mit-license.html)
 
 <hr />
-<a href="handsonlabs" class="btn" >Back to Hands On Lab Menu</a>
+<center>
+<a href="../../handsonlabs" class="btn" >Back to Hands On Lab Menu</a>
+<center />
 <hr />
 

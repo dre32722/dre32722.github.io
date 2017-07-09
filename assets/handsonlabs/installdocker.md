@@ -21,7 +21,7 @@ You should get a valid version. My install was Docker version 17.06.0-ce, build 
 
 <hr />
 <center>
-<a href="handsonlabs" class="btn" >Back to Hands On Lab Menu</a>
+<a href="../../handsonlabs" class="btn" >Back to Hands On Lab Menu</a>
 <center />
 <hr />
 

@@ -37,7 +37,7 @@ For more information about using NodeJS [Visit Nodejs.org](https://nodejs.org/en
 
 <hr />
 <center>
-<a href="handsonlabs" class="btn" >Back to Hands On Lab Menu</a>
+<a href="../../handsonlabs" class="btn" >Back to Hands On Lab Menu</a>
 <center />
 <hr />
 
