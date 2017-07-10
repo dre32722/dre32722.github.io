@@ -8,7 +8,7 @@ This section will help you deploy the git client software into your environment.
 
 ### Installation on Ubuntu 16.04
 
-The following instructions are what I use don Ubuntu 16.04 but if in doubt refer the All Platforms link below.
+The following instructions are what I use don Ubuntu 16.04 but if in doubt refer [All Platforms - Git Install](https://www.atlassian.com/git/tutorials/install-git)
 
 Verify your installation by executing the following command:
 
