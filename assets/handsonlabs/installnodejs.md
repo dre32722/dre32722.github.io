@@ -4,31 +4,31 @@
 
 ### 1. Install NodeJS
 
-This section provides instructions for you to install Node.js. 
 The Node.js install is required to run the MedRec application.
+This section provides instructions for you to install Node.js. 
+For your platform specific install please refer [Nodejs.org](https://nodejs.org/en/download/). 
 
-Note: I used the Ubuntu 16.04 Linux distribution, you may need to adjust the commands according to that required by your target operating system. For instance, if using other Fedora based OS then yum install of apt-get.
+Note: I used the Ubuntu 16.04 Linux distribution, and installed Node 4.8 when the application was built and tested. There are later versions of Node.js (eg 6.x) available. The following Node.js versions are currently supported on Oracle Application Container Cloud Servcie (ACCS) - 0.10, 0.12, 4.x, 6.x .
 
-The first step is to checkl to see if you already have Node.js installed.
+### 1.1 Install NodeJS on Ubuntu 16.04
+
+Check to see if you already have Node.js installed.
 In case you know that you have already have it installed, then skip and move to the next stage.
-If you are unsure, continue with the following:
 
+``` nodejs --version*   or *node --version ```
+
+If you are unsure, continue with the following steps.
 Validate the current version of the Node.js software (if installed):
 
-*nodejs --version*   or *node --version*
-
-### 1.1 Install NodeJS (if not already installed)
-
-*sudo apt-get install curl -y*
-*sudo curl -sL https://deb.nodesource.com/setup_4.x | sudo -E bash –*
-*sudo apt-get install nodejs -y *
+``` sudo apt-get install curl -y ```
+``` sudo curl -sL https://deb.nodesource.com/setup_4.x | sudo -E bash – ```
+``` sudo apt-get install nodejs -y ```
 
 Validate the NodeJS installation:
 
-*nodejs --version* or *node --version*
+``` nodejs --version* or *node --version ```
 
 You should get a valid version returned. 
-Note: I used NodeJS version 4.8.0 while building this application.
 
 For more information about using NodeJS [Visit Nodejs.org](https://nodejs.org/en/download/). 
 
