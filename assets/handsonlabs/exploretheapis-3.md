@@ -4,7 +4,7 @@
 
 ### Explore the APIs using Postman
 
-This section will help you 
+This section provides instructions to use the Postman client to access the AnkiMedRec APIs.
 
 <img src="./img/postmanclient1.PNG" />
 

@@ -2,7 +2,7 @@
 
 - Oracle Code Sydney July 2017
 
-### Anki-Medrec - Hands On Lab - Pre-Requisite Steps
+### Pre-Requisite Steps
 
 Thank you for your interest in the Anki-MedRec Hands On Lab (HOL) at the Oracle Code event in Sydney.
 
@@ -13,37 +13,64 @@ Please complete the following steps prior to the event.
 
    Note : You must use the same email address as you used to register for Oracle Code.
 
-2. As part of the HOL there will be time provided to install the required software (Git, Python, Node.js,
-   MongoDB, Docker, Docker-compose) and the application (API) implementation code. However, as developers 
-   environments may vary considerably it would be beneficial to action the install of the software in your
-   local; environment ahead of the event. 
 
-   Please note that the software installation instructions were developed using an Ubuntu 16:04 image.
-   The easiest path forward will be for you to mirror the base environment. 
-
-   For those who want to mirror the environment please do the following;
-   a) Download VirtualBox software - https://www.virtualbox.org/wiki/Downloads 
-   b) Download Ubuntu 16.04 (64 bit) VBox Image from http://www.osboxes.org/ubuntu/
-   
-   Steps will vary for Mac, other flavours of Linux and Windows.
-
-   Note : Minimum software versions for the Hands-On Lab requires Windows 7, Windows 10, Ubuntu 16.04 
-   or Mac OS X. Other systems may work fine but havent been tested.
-
-3. Assuming you dont already have an account on GitHub, then create an account on GitHub 
+2. Assuming you dont already have an account on GitHub, then create an account on GitHub 
    https://github.com/ , Click Sign Up.
 
-4. Assuming you dont already have an account on Docker Hub, then create an account on Docker Hub 
+3. Assuming you dont already have an account on Docker Hub, then create an account on Docker Hub 
    Create an account on Docker Hub - https://cloud.docker.com/ 
 
+4. As part of the HOL multiple software components will need to be installed in your local development
+   environment.
+
+Git Client required to pull down the various project repositories
+
+   - [Install Git](./assets/handsonlabs/installgit.md)
+
+Core software for the API implementation
+
+   - [Install Node.js](./assets/handsonlabs/installnodejs.md)
+   - [Install MongoDB](./assets/handsonlabs/installmongodb.md)
+
+Client software to exercise the APIs
+
+   - [Install Python](./assets/handsonlabs/installpython.md)
+   - [Install Postman](./assets/handsonlabs/installpostman.md)
+
+Optional installations for those who want to explore MedRec in a local Docker context
+
+   - [Install Docker](./assets/handsonlabs/installdocker.md)
+   - [Install Docker-Compose](./assets/handsonlabs/installdockercompose.md)
+
+   In order to get the most out of the hands on lab material it would be beneficial if you can do the above 
+   software installations in your environment prior to participating in the Oracle Code event.
+
+   Please note that the software installation instructions are generic in nature.
+   Initial setup was done using an Ubuntu 16.04 base image and this is reflected in some of the instructions.
+
+   You may want to use a Virtual Box image to install the required software into.
+   If so, this approach may help you get started;
+   a) [Download VirtualBox Software](https://www.virtualbox.org/wiki/Downloads)
+   b) [Download Ubuntu 16.04 (64 bit) VBox Image](http://www.osboxes.org/ubuntu/)
+   
+   Installation steps obviously vary depending on the operating system used.
+
+   Note : 
+   - Suggested minimum software versions for the Hands-On Lab are Windows 10, Ubuntu 16.04, 
+   or Mac OS X. 
+   - Other systems may work fine but havent been tested.
+
 5. Bring your laptop to the event. 
-   A Wifi network will be provided for you to connect to.
+
+6. A Wifi network will be provided for you to connect to.
 
 * No warranty expressed or implied.  Software is as is.
 * [MIT License](http://www.opensource.org/licenses/mit-license.html)
 
 <hr />
+<center>
 <a href="../../handsonlabs" class="btn" >Back to Hands On Lab Menu</a>
+<center />
 <hr />
 
 

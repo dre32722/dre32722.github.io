@@ -8,13 +8,24 @@
 
 ### Setup your development environment
 
-- [Install Git](./assets/handsonlabs/installgit.md)
-- [Install Node.js](./assets/handsonlabs/installnodejs.md)
-- [Install MongoDB](./assets/handsonlabs/installmongodb.md)
-- [Install Python](./assets/handsonlabs/installpython.md)
-- [Install Docker](./assets/handsonlabs/installdocker.md)
-- [Install Docker-Compose](./assets/handsonlabs/installdockercompose.md)
-- [Install Postman](./assets/handsonlabs/installpostman.md)
+Git Client required to pull down the various project repositories
+
+   - [Install Git](./assets/handsonlabs/installgit.md)
+
+Core software for the API implementation
+
+   - [Install Node.js](./assets/handsonlabs/installnodejs.md)
+   - [Install MongoDB](./assets/handsonlabs/installmongodb.md)
+
+Client software to exercise the APIs
+
+   - [Install Python](./assets/handsonlabs/installpython.md)
+   - [Install Postman](./assets/handsonlabs/installpostman.md)
+
+Optional installations for those who want to explore MedRec in a local Docker context
+
+   - [Install Docker](./assets/handsonlabs/installdocker.md)
+   - [Install Docker-Compose](./assets/handsonlabs/installdockercompose.md)
 
 ### Downloading the application code and run the APIs locally
 
@@ -28,7 +39,7 @@
 - [Fork the MedRec Python Git project](./assets/handsonlabs/forkthemedrecpythongitrepo.md) 
 - [Access the APIs using Python](./assets/handsonlabs/exploretheapis-2.md)
 
-### Build the Docker Image and run up the APIs lcoally using Docker
+### Build the Docker Image and run up the APIs locally using Docker
 
 - [Build and Run the Dockerised API application](./assets/handsonlabs/buildthedockerimage.md)
 
