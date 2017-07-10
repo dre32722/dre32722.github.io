@@ -14,14 +14,14 @@ Please complete the following steps prior to the event.
    Note : You must use the same email address as you used to register for Oracle Code.
 
 
-2. Assuming you dont already have an account on GitHub, then create an account on GitHub 
-   https://github.com/ , Click Sign Up.
+2. Assuming you dont already have an account on GitHub, then create an account on 
+   [GitHub](https://github.com/) , by clicking Sign Up.
 
 3. Assuming you dont already have an account on Docker Hub, then create an account on Docker Hub 
-   Create an account on Docker Hub - https://cloud.docker.com/ 
+   [Docker Hub](https://cloud.docker.com/)
 
 4. As part of the HOL multiple software components will need to be installed in your local development
-   environment.
+   environment. Please note that the software installation instructions provided are generic in nature.
 
 Git Client required to pull down the various project repositories
 
@@ -45,7 +45,6 @@ Optional installations for those who want to explore MedRec in a local Docker co
    In order to get the most out of the hands on lab material it would be beneficial if you can do the above 
    software installations in your environment prior to participating in the Oracle Code event.
 
-   Please note that the software installation instructions are generic in nature.
    Initial setup was done using an Ubuntu 16.04 base image and this is reflected in some of the instructions.
 
    You may want to use a Virtual Box image to install the required software into.
