@@ -25,22 +25,22 @@ Please complete the following steps prior to the event.
 
 Git Client required to pull down the various project repositories
 
-   - [Install Git](./assets/handsonlabs/installgit.md)
+   - [Install Git](installgit.md)
 
 Core software for the API implementation
 
-   - [Install Node.js](./assets/handsonlabs/installnodejs.md)
-   - [Install MongoDB](./assets/handsonlabs/installmongodb.md)
+   - [Install Node.js](installnodejs.md)
+   - [Install MongoDB](installmongodb.md)
 
 Client software to exercise the APIs
 
-   - [Install Python](./assets/handsonlabs/installpython.md)
-   - [Install Postman](./assets/handsonlabs/installpostman.md)
+   - [Install Python](installpython.md)
+   - [Install Postman](installpostman.md)
 
 Optional installations for those who want to explore MedRec in a local Docker context
 
-   - [Install Docker](./assets/handsonlabs/installdocker.md)
-   - [Install Docker-Compose](./assets/handsonlabs/installdockercompose.md)
+   - [Install Docker](installdocker.md)
+   - [Install Docker-Compose](installdockercompose.md)
 
    In order to get the most out of the hands on lab material it would be beneficial if you can do the above 
    software installations in your environment prior to participating in the Oracle Code event.
