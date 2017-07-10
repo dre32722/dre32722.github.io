@@ -2,31 +2,32 @@
 
 - Oracle Code Sydney July 2017
 
-### Installation on Ubuntu 16.04
+### Git Install
 
 This section will help you deploy the git client software into your environment. 
-The following instructions are for Ubuntu 16.04.
+
+### Installation on Ubuntu 16.04
+
+The following instructions are what I use don Ubuntu 16.04 but if in doubt refer the All Platforms link below.
 
 Verify your installation by executing the following command:
 
-``` *git --version* ```
+``` git --version ```
 
 Assuming Git is not installed then execute the following command.
 
-``` *sudo apt-get install git -y* ```
+``` sudo apt-get install git -y ```
 
 Validate your Git installation:
 
-``` *git --version* ```
+``` git --version ```
 
 The above command should return a valid version. 
 
-For more information about using installing Git on Ubuntu [visit this page](https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-16-04). 
+### Installation on all platforms
 
-### Installation on other platforms
+[All Platforms - Git Install](https://www.atlassian.com/git/tutorials/install-git)
 
-Please adjust accordingly if using a different Linux OS (e.g. "yum" if using Fedora based distributions).
- 
 [Install Git on Fedora](https://www.liquidweb.com/kb/how-to-install-and-configure-git-on-fedora-23/) .  
 
 [Install Git on Mac OSX](https://www.atlassian.com/git/tutorials/install-git) .  
