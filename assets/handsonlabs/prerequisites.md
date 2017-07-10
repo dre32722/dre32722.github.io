@@ -8,7 +8,6 @@ Thank you for your interest in the Anki-MedRec Hands On Lab (HOL) at the Oracle 
 
 Please complete the following steps prior to the event.
 
-
 1. Sign up for your free trial on the Oracle Cloud by going to URL provided in the registration email
 
    Note : You must use the same email address as you used to register for Oracle Code.
