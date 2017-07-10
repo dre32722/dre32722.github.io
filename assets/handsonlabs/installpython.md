@@ -4,10 +4,16 @@
 
 ### Install Python
 
-The link below contains infornmation for installing Python on various operating systems.
+The link below contains information for installing Python on various operating systems.
 
-[Python Install Instructions](https://www.tutorialspoint.com/python/python_environment.htm)
+[Python Downloads](https://www.python.org/downloads/)
+
+Also refer
+
+[Python Installation Instructions](https://www.tutorialspoint.com/python/python_environment.htm)
  
+I used python 3.5.2 on my Ubuntu 16.04 operating system. Ubuntu 16.04 ships with both Python 3 and Python 2 pre-installed, however the steps details in Step 1 of the following document may help you upgrade etc.
+[Python on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-ubuntu-16-04)
 
 * No warranty expressed or implied.  Software is as is.
 * [MIT License](http://www.opensource.org/licenses/mit-license.html)
