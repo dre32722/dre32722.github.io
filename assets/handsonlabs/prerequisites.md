@@ -16,7 +16,7 @@ Please complete the following steps prior to the event.
 2. Assuming you dont already have an account on GitHub, then create an account on 
    [GitHub](https://github.com/) , by clicking Sign Up.
 
-3. Assuming you dont already have an account on Docker Hub, then create an account on Docker Hub 
+3. Assuming you dont already have an account on Docker Hub, then create an account on 
    [Docker Hub](https://cloud.docker.com/)
 
 4. As part of the HOL multiple software components will need to be installed in your local development
