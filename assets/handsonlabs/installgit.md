@@ -9,15 +9,15 @@ The following instructions are for Ubuntu 16.04.
 
 Verify your installation by executing the following command:
 
-*git --version*
+``` *git --version* ```
 
 Assuming Git is not installed then execute the following command.
 
-*sudo apt-get install git -y*
+``` *sudo apt-get install git -y* ```
 
 Validate your Git installation:
 
-*git --version*
+``` *git --version* ```
 
 The above command should return a valid version. 
 
