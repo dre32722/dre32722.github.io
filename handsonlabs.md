@@ -4,60 +4,45 @@
 
 ### Getting Started with the MedRec APIs
 
-- [Pre-Requisite Steps](./assets/handsonlabs/prerequisites.md)  
-
-### Setup your development environment
-
-Git Client required to pull down the various project repositories
-
-   - [Install Git](./assets/handsonlabs/installgit.md)
-
-Core software for the API implementation
-
-   - [Install Node.js](./assets/handsonlabs/installnodejs.md)
-   - [Install MongoDB](./assets/handsonlabs/installmongodb.md)
-
-Client software to exercise the APIs
-
-   - [Install Python](./assets/handsonlabs/installpython.md)
-   - [Install Postman](./assets/handsonlabs/installpostman.md)
-
-Optional installations for those who want to explore MedRec in a Docker (running local) context
-
-   - [Install Docker](./assets/handsonlabs/installdocker.md)
-   - [Install Docker-Compose](./assets/handsonlabs/installdockercompose.md)
+- [Pre-Requisite Steps including Required Software Installation](./assets/handsonlabs/prerequisites.md)  
 
 ### Downloading the application code and run the APIs locally
 
 - [Fork the MedRec API Git project](./assets/handsonlabs/forkthemedrecapigitrepo.md) 
-- [Run the Node API application](./assets/handsonlabs/runtheapislocally.md)
-- [Access the APIs using SwaggerUI](./assets/handsonlabs/exploretheapis-1.md)
-- [Explore the APIs using Postman Client](./assets/handsonlabs/exploretheapis-3.md)
+- [Run the local Node API application](./assets/handsonlabs/runtheapislocally.md)
+- [Access the local APIs using SwaggerUI](./assets/handsonlabs/exploretheapis-1.md)
+- [Explore the local APIs using Postman Client](./assets/handsonlabs/exploretheapis-3.md)
 
 ### Downloading the python client application code 
 
 - [Fork the MedRec Python Git project](./assets/handsonlabs/forkthemedrecpythongitrepo.md) 
-- [Access the APIs using Python](./assets/handsonlabs/exploretheapis-2.md)
+- [Access the locally running APIs using Python](./assets/handsonlabs/exploretheapis-2.md)
 
-### Build the Docker Image and run up the APIs locally using Docker
+### Access the APIs hosted on Oracle Cloud protected using API Platform
+- Register as a developer to get an API Key by clinking the following link.
+<a href="https://apidevelopers-gse00011671.apaas.us2.oraclecloud.com/" target="_blank">Register As A Developer</a>
+- [Explore the Secured APIs with your API Key using Swagger](./assets/handsonlabs/exploretheapis-5.md)
+- [Explore the Secured APIs with your API Key using Postman](./assets/handsonlabs/exploretheapis-6.md)
+- [Explore the Secured APIs with your API Key using an online Python Service](./assets/handsonlabs/exploretheapis-4.md)
+
+### Optional Activities 
+
+#### Build the Docker Image and run up the APIs locally using Docker-Compose
 
 - [Build and Run the Dockerised API application](./assets/handsonlabs/buildthedockerimage.md)
 
-Assuming the docker container is up and running locally, choose your preferred client from the following options in order to interact with the REST APIs and prove that it all still works.
+Assuming the docker containers are up and running locally, choose your preferred client from the following options in order to interact with the REST APIs and prove that it all still works.
 - [Explore the APIs using SwaggerUI](./assets/handsonlabs/exploretheapis-1.md)
-- [Explore the APIs using local Python](./assets/handsonlabs/exploretheapis-2.md)
-- [Explore the APIs using an online Python service](./assets/handsonlabs/exploretheapis-4.md)
 
-### Try out the Application User Interface developed in Vue.js
+#### Try out the Application User Interface developed in Vue.js
 
 - [TBC - Optional Lab 1 - Clone and Run the Vue User Interface to connect to the APIs](./assets/handsonlabs/medrecui.md)
 
-### Oracle Cloud Provisioning Labs
 #### Running the APIs on the Oracle Container Cloud Service
 
 Next you will login to the Oracle Container Cloud Service (OCCS) and create a stack definition for the MedRec APi (web and mongodb tier).
 
-- [Run the Node API and Mongo Stack on the Oracle Container Cloud Service](./assets/handsonlabs/createtheoccsstack.md)
+- [Run and test the Node API and Mongo Stack on the Oracle Container Cloud Service](./assets/handsonlabs/createtheoccsstack.md)
 
 #### Provision the application and MongoDB using Oracle Cloud Services
 

@@ -14,7 +14,8 @@ Note: I used the Ubuntu 16.04 Linux distribution, and installed Node 4.8 when th
 
 Check to see if you already have Node.js installed.
 In case you know that you have already have it installed, then skip and move to the next stage.
-Because of a conflict with another package on Ubuntu, the executable from the Ubuntu repositories is called nodejs instead of node. Keep this in mind as you are running software.
+
+Because of a conflict with another package on Ubuntu, the executable from the Ubuntu repositories is called nodejs instead of node. Keep this in mind as you are running the software. 
 
 ``` nodejs --version ```
 

@@ -12,7 +12,6 @@ Please complete the following steps prior to the event.
 
    Note : You must use the same email address as you used to register for Oracle Code.
 
-
 2. Assuming you dont already have an account on GitHub, then create an account on 
    [GitHub](https://github.com/) , by clicking Sign Up.
 
@@ -37,6 +36,12 @@ Please complete the following steps prior to the event.
    If so, this approach may help you get started;
    a) [Download VirtualBox Software](https://www.virtualbox.org/wiki/Downloads)
    b) [Download Ubuntu 16.04 (64 bit) VBox Image](http://www.osboxes.org/ubuntu/)
+
+   Make sure you do a package update before each of the install steps below as per the following command;
+
+```
+sudo apt-get update 
+```
 
 Git Client required to pull down the various project repositories
 

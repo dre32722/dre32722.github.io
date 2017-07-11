@@ -18,10 +18,16 @@ Ubuntu 16.04 ships with both Python 3 and Python 2 pre-installed, however the st
 I used python 3.5.2 on my Ubuntu 16.04 operating system but instructions below will shopw to install a later version which also works fine. 
 
 -	If using Ubuntu 16.04, you have to add python to the universe repository: 
-``` sudo add-apt-repository ppa:jonathonf/python-3.6 ```
+``` 
+sudo add-apt-repository ppa:jonathonf/python-3.6 ```
 -	Then, simple run:
-```sudo apt-get update ```
-```sudo apt-get install python3.6 -y ```
+```
+sudo apt-get update 
+```
+```
+sudo 
+apt-get install python3.6 -y 
+```
 
 Then confirm the installation by typing:
 ```python3.6 --version ```
