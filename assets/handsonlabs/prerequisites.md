@@ -22,6 +22,13 @@ Please complete the following steps prior to the event.
 4. As part of the HOL multiple software components will need to be installed in your local development
    environment. Please note that the software installation instructions provided are generic in nature.
 
+   Initial setup was done using an Ubuntu 16.04 base image and this is reflected in some of the instructions.
+
+   You may want to use a Virtual Box image to install the required software into.
+   If so, this approach may help you get started;
+   a) [Download VirtualBox Software](https://www.virtualbox.org/wiki/Downloads)
+   b) [Download Ubuntu 16.04 (64 bit) VBox Image](http://www.osboxes.org/ubuntu/)
+
 Git Client required to pull down the various project repositories
 
    - [Install Git](installgit.md)
@@ -43,13 +50,6 @@ Optional installations for those who want to explore MedRec in a local Docker co
 
    In order to get the most out of the hands on lab material it would be beneficial if you can do the above 
    software installations in your environment prior to participating in the Oracle Code event.
-
-   Initial setup was done using an Ubuntu 16.04 base image and this is reflected in some of the instructions.
-
-   You may want to use a Virtual Box image to install the required software into.
-   If so, this approach may help you get started;
-   a) [Download VirtualBox Software](https://www.virtualbox.org/wiki/Downloads)
-   b) [Download Ubuntu 16.04 (64 bit) VBox Image](http://www.osboxes.org/ubuntu/)
    
    Installation steps obviously vary depending on the operating system used.
 
