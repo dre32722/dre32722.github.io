@@ -9,47 +9,47 @@ Point your browser to localhost:3000
 
 <img src="./img/swagger1.PNG" />
 
-Under Physicians, click the Get button.
+Under Physicians, click the GET button.
 
 <img src="./img/swagger2.PNG" />
 
-Click Try It Out button
+Click the "Try It Out" button
 
 <img src="./img/swagger3.PNG" />
 
-Click Execute button
+Click Execute button and note the message returned.
 
 <img src="./img/swagger4.PNG" />
 
-Post
+Click the blue GET button to collapse it and then press POST.
 
 <img src="./img/swagger5.PNG" />
 
-Next 
+Note the example value - this is useful when using other tools such as Postman.
 
 <img src="./img/swagger6.PNG" />
 
-Next
+Click the "Try It Out" button 
 
 <img src="./img/swagger7.PNG" />
 
-Next
+Edit the Physician data as desired
 
 <img src="./img/swagger8.PNG" />
 
-Next 
+Click the Execute button
 
 <img src="./img/swagger9.PNG" />
 
-Next
+Collapse the POST operation by clicking on the POST button.
 
 <img src="./img/swagger10.PNG" />
 
-Next
+Do another GET operation 
 
 <img src="./img/swagger11.PNG" />
 
-Next
+You shopuld see the Physician you added in the API response.
 
 <img src="./img/swagger12.PNG" />
 
