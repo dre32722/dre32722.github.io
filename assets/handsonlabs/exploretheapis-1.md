@@ -50,7 +50,7 @@ Do another GET operation
 
 <img src="./img/swagger11.PNG" />
 
-You shopuld see the Physician you added in the API response.
+You should see the Physician data you added during the POST operation in the API response.
 
 <img src="./img/swagger12.PNG" />
 
