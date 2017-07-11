@@ -19,7 +19,7 @@ With your cursor in the repository search bar (circled in red)
 
 <img src="./img/git3.PNG" />
 
-Enter the following search criteria: **barackd222/anki-medrecapis** and press Enter.
+Enter the following search criteria: **barackd222/ankimedrec-apis** and press Enter.
 
 <img src="./img/git4.PNG" />
 

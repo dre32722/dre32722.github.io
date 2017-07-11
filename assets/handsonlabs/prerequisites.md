@@ -22,6 +22,15 @@ Please complete the following steps prior to the event.
 4. As part of the HOL multiple software components will need to be installed in your local development
    environment. Please note that the software installation instructions provided are generic in nature.
 
+   In order to get the most out of the hands on lab material it would be beneficial if you can do the 
+   software installations in your environment prior to participating in the Oracle Code event.
+   
+   Installation steps obviously vary depending on the operating system used.
+   Note : 
+   - Suggested minimum software versions for the Hands-On Lab are Windows 10, Ubuntu 16.04, 
+   or Mac OS X. 
+   - Other systems may work fine but havent been tested.
+
    Initial setup was done using an Ubuntu 16.04 base image and this is reflected in some of the instructions.
 
    You may want to use a Virtual Box image to install the required software into.
@@ -47,16 +56,6 @@ Optional installations for those who want to explore MedRec in a local Docker co
 
    - [Install Docker](installdocker.md)
    - [Install Docker-Compose](installdockercompose.md)
-
-   In order to get the most out of the hands on lab material it would be beneficial if you can do the above 
-   software installations in your environment prior to participating in the Oracle Code event.
-   
-   Installation steps obviously vary depending on the operating system used.
-
-   Note : 
-   - Suggested minimum software versions for the Hands-On Lab are Windows 10, Ubuntu 16.04, 
-   or Mac OS X. 
-   - Other systems may work fine but havent been tested.
 
 5. Bring your laptop to the event. 
 
