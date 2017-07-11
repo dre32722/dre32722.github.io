@@ -30,7 +30,7 @@ Any REST requests (once defined) will appear under the collection when it is sel
 ### Specify a GET Request
 
 In the right pane, we can now specify our API request in the space immediately to the right of the GET button..
-If you are using Postman on your host and accessing the APIs running in your VM thne you will need to determne the IP address of the VM and use that otherwise you can simply enter http://localhost:3000.
+If you are using Postman on your host and accessing the APIs running in your VM thne you will need to determne the IP address of the VM and use that otherwise you can simply enter the following ``` http://localhost:3000/physicians``` 
 
 <img src="./img/exploretheapis-3-6.PNG" />
 
@@ -76,13 +76,13 @@ Modify the Physicians name to suit you.
 
 <img src="./img/exploretheapis-3-14.PNG" />
 
-We now need to specify a Header to specify that our Content-Type is applicaiton/json format.
+We now need to specify a Header to specify that our Content-Type is application/json format.
 Click the Headers tab.
 Under the title "Key" start typing Content and select Content-Type from the list that appears.
 
 <img src="./img/exploretheapis-3-15.PNG" />
 
-Adjacent to the Content-Type Header specify "applciation/json"
+Adjacent to the Content-Type Header specify "application/json"
 
 <img src="./img/exploretheapis-3-16.PNG" />
 
