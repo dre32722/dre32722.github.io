@@ -11,13 +11,15 @@ Point your browser to localhost:3000
 
 Under Physicians, click the GET button.
 
+Click the "Try It Out" button
+
 <img src="./img/swagger2.PNG" />
 
-Click the "Try It Out" button
+Click Execute button 
 
 <img src="./img/swagger3.PNG" />
 
-Click Execute button and note the message returned.
+Click the Execute button and note the message returned.
 
 <img src="./img/swagger4.PNG" />
 
@@ -25,11 +27,10 @@ Click the blue GET button to collapse it and then press POST.
 
 <img src="./img/swagger5.PNG" />
 
-Note the example value - this is useful when using other tools such as Postman.
+Note the example value - this is useful to copy/paste when using other tools such as Postman.
+Click the "Try It Out" button 
 
 <img src="./img/swagger6.PNG" />
-
-Click the "Try It Out" button 
 
 <img src="./img/swagger7.PNG" />
 
