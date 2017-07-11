@@ -21,9 +21,9 @@ Please make sure the following are available on your local machine before starti
 <br>
 1. Register for the Medrec APIs as discussed in the earlier labs and copy  the API Key after registration.
 2. Navigate to the cloned repository and open the http-common.js file located under medrecapp>src> in your favourite editor (Notepad or Atom or Notepad++)
-<img src="./img/MedrecApp-1.PNG" />
+<img src="./img/medrecApp-1.PNG" />
 3. Modify the X-APP-KEY value (XXXXXXXXXX) to the api key  copied from step 1 and save the file.
-<img src="./img/MedrecApp-2.PNG" />
+<img src="./img/medrecApp-2.PNG" />
 4. Open command prompt or a terminal window, navigate the cloned medrecapp repository and execute the below commands
 ```bash
 $ npm install
@@ -32,15 +32,15 @@ $ npm run dev
 # This command is going serve the web application at localhost:3000
 ```
 5. The application would now open in the default browser. To access the web app in chrome http://localhost:3000
-<img src="./img/MedrecApp-3.PNG" />
+<img src="./img/medrecApp-3.PNG" />
 6. Click on PHYSICIAN INFO Tab that is going to invoke the Physicians API and display the Physician Details.
-<img src="./img/MedrecApp-4.PNG" />
+<img src="./img/medrecApp-4.PNG" />
 7. Click on Add Physician to Add a new Physician details.This action opens up a new Add screen on the top left of the browser.
-<img src="./img/MedrecApp-5.PNG" />
-<img src="./img/MedrecApp-6.PNG" />
+<img src="./img/medrecApp-5.PNG" />
+<img src="./img/medrecApp-6.PNG" />
 Key in the Physician Details.
 8. Expand the List and Click on Edit to edit an existing Physician Entry.
-
+<img src="./img/medrecApp-7.PNG" />
 
 *nodejs medrecapp.js*
 Point your browser to localhost:x
