@@ -25,7 +25,7 @@ Please make sure the following are available on your local machine before starti
 3. Modify the X-APP-KEY value (XXXXXXXXXX) to the api key  copied from step 1 and save the file.
 <img src="./img/medrecApp-2.PNG" />
 4. Open command prompt or a terminal window, navigate the cloned medrecapp repository and execute the below commands
-```bash
+``` bash
 $ npm install
 # This command is going to install the dependencies for the application. This will take a while to install all the required node libraries.
 $ npm run dev
@@ -39,6 +39,7 @@ $ npm run dev
 <img src="./img/medrecApp-5.PNG" />
 <img src="./img/medrecApp-6.PNG" />
 Key in the Physician Details.
+
 8. Expand the List and Click on Edit to edit an existing Physician Entry.
 <img src="./img/medrecApp-7.PNG" />
 
