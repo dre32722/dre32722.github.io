@@ -25,6 +25,7 @@ Please make sure the following are available on your local machine before starti
 3. Modify the X-APP-KEY value (XXXXXXXXXX) to the api key  copied from step 1 and save the file.
 <img src="./img/medrecApp-2.PNG" />
 4. Open command prompt or a terminal window, navigate the cloned medrecapp repository and execute the below commands
+
 ``` bash
 $ npm install
 # This command is going to install the dependencies for the application. This will take a while to install all the required node libraries.
@@ -35,12 +36,12 @@ $ npm run dev
 <img src="./img/medrecApp-3.PNG" />
 6. Click on PHYSICIAN INFO Tab that is going to invoke the Physicians API and display the Physician Details.
 <img src="./img/medrecApp-4.PNG" />
-7. Click on Add Physician to Add a new Physician details.This action opens up a new Add screen on the top left of the browser.
+7. Click on Add Physician to Add a new Physician details.This action opens up a new Add screen on the top left of the browser. 
 <img src="./img/medrecApp-5.PNG" />
 <img src="./img/medrecApp-6.PNG" />
-Key in the Physician Details.
+ Key in the Physician Details and hit save.
 
-8. Expand the List and Click on Edit to edit an existing Physician Entry.
+8. Expand the List and Click on Edit to edit an existing Physician Entry. This action will open up a screen on the top left of the browser window. Edit the details and hit save.
 <img src="./img/medrecApp-7.PNG" />
 
 *nodejs medrecapp.js*
