@@ -22,9 +22,9 @@ Now specify two headers as follows;
 ```X-App-Key``` with a value of ```yourAPIKeyValue```
 ```Content-Type``` with a value of ```application/json```
 Press Send
-Notice that the
+Notice that the Request was accepted and data was returned.
 
-<img src="./img/exploretheapis-6-1.PNG" />
+<img src="./img/exploretheapis-6-2.PNG" />
 
 Save the Request Information into your Collection.
 
