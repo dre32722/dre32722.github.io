@@ -4,10 +4,10 @@
 
 #### Explore the APIs using a pre-built web application
 
-In addition to the REST clients we have used to access our APIs we have put together a sample web application using a progressive framework called Vue.js. For more information about the UI framework visit [Vue](https://vuejs.org
+In addition to the REST clients we have used to access our APIs we have put together a sample web application using a progressive framework called Vue.js. For more information about the UI framework visit [Vue](https://vuejs.org)
 
-### Fork the medrecui projec
-fork the repository on github - provide git repo reference
+### Fork the medrecapp project
+Fork the repository from github - https://github.com/vijaykumaryenne/medrecapp
 add screen images if you think they are required - 
 Note they will need to be saved as files so I can include in my handsonlabs/img directory
 <br>
