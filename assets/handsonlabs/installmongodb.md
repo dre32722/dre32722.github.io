@@ -33,6 +33,7 @@ mongo --version
 You should get a valid version returned otherwise install it as per below. 
 
 - Install MongoDB
+```
 sudo apt-get install mongodb -y
 ```
 - Validate the MongoDB installation:

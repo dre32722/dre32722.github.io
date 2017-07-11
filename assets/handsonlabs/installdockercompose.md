@@ -6,7 +6,10 @@
 
 This section provides instructions to install docker-compose.
 Compose is a tool for defining and running multi-container Docker applications.
-In our case we will have a container for the MedRec Node.js web application and anopther container for the MongoDB database. 
+
+Docker for Mac, Docker for Windows, and Docker Toolbox include Docker Compose, so most Mac and Windows users do not need to install Docker Compose separately.
+
+In our case we will have a container for the MedRec Node.js web application and another container for the MongoDB database. 
 
 <img src="./img/dockercompose1.PNG" />
 
