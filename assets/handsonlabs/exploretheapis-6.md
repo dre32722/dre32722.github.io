@@ -14,7 +14,7 @@ Add a GET request to the collection using the following URL
 ```https://apip.oracleau.cloud/api/medrec/physicians```
 
 Press Send to execute the GET Request.
-Notice that the you get a HTTP 401 - Unauthorized error message returned.
+Notice that you get a **HTTP 401 - Unauthorized** error message returned.
 
 <img src="./img/exploretheapis-6-1.PNG" />
 
@@ -22,7 +22,7 @@ Now specify two headers as follows;
 ```X-App-Key``` with a value of ```yourAPIKeyValue```
 ```Content-Type``` with a value of ```application/json```
 Press Send
-Notice that the Request was accepted and data was returned.
+The GET Request should be accepted and Physician data returned.
 
 <img src="./img/exploretheapis-6-2.PNG" />
 
