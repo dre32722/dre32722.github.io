@@ -4,7 +4,7 @@
 
 #### Explore the APIs using a pre-built web application
 
-In addition to the REST clients we have used to access our APIs we have put together a sample web application using a progressive framework called Vue.js. For more information about the UI framework, [visit Vue](https://vuejs.org
+In addition to the REST clients we have used to access our APIs we have put together a sample web application using a progressive framework called Vue.js. For more information about the UI framework visit [Vue](https://vuejs.org
 
 ### Fork the medrecui projec
 fork the repository on github - provide git repo reference
