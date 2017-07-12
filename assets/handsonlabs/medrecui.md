@@ -4,7 +4,7 @@
 
 #### Explore the APIs using a pre-built web application
 
-In addition to the REST clients we have used to access our APIs we have put together a sample web application using a progressive framework called Vue.js. For more information about the UI framework visit [Vue](https://vuejs.org)
+In addition to the REST clients we have used to access our APIs we have put together a sample web application using a progressive framework called Vue.js. For more information about the UI framework visit [Vue](https://vuejs.org). There are two parts of this lab.You can either execute the app against the APIs available on API Platform or execute the app against the APIs deployed on your local machine. Navigate to the section of your interest.
 
 ### Fork the medrecapp project
 Fork the sample medrec app repository from github - https://github.com/vijaykumaryenne/medrecapp in to your Github Account.
@@ -19,12 +19,13 @@ Please make sure the following are available on your local machine before starti
 
 ### Run the Vue.js app against the APIs on API Platform
 <br>
-1. Register for the Medrec APIs as discussed in the earlier labs and copy  the API Key after registration.
-2. Navigate to the cloned repository and open the http-common.js file located under medrecapp>src> in your favourite editor (Notepad or Atom or Notepad++)
+1. Register for the Medrec APIs as discussed in the earlier labs and copy the API Key once registration is successful.
+
+2. Navigate to the cloned repository and open the http-common.js file located under Medrecapp>src> in your favourite editor (Notepad or Atom or Notepad++)
 
 <img src="./img/medrecApp-1.PNG" />
 
-3. Modify the X-APP-KEY value (XXXXXXXXXX) to the api key  copied from step 1 and save the file.
+3. Modify the X-APP-KEY value (XXXXXXXXXX) to the api key copied from step 1 and save the file.
 
 <img src="./img/medrecApp-2.PNG" />
 
@@ -67,7 +68,7 @@ Key in the Physician Details and hit save.
 
 ### Run the Vue.js app against your locally running APIs
 <br>
-1. Navigate to the cloned repository and open the http-common.js file located under medrecapp>src> in your favourite editor (Notepad or Atom or Notepad++)
+1. Navigate to the cloned repository and open the http-common.js file located under Medrecapp>src> in your favourite editor (Notepad or Atom or Notepad++)
 
 <img src="./img/medrecApp-1.PNG" />
 
