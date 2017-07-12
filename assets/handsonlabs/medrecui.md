@@ -35,6 +35,7 @@ $ npm install
 $ npm run dev
 # This command is going serve the web application at localhost:3000
 ```
+<img src="./img/medrecApp-12.PNG" />
 6. The application would now open in the default browser. To access the web app in chrome http://localhost:3000
 <img src="./img/medrecApp-3.PNG" />
 7. Click on PHYSICIAN INFO Tab that is going to invoke the Physicians API and display the Physician Details.
