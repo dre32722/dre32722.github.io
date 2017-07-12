@@ -4,7 +4,7 @@
 
 #### Explore the APIs using a pre-built web application
 
-In addition to the REST clients we have used to access our APIs we have put together a sample web application using a progressive framework called Vue.js. For more information about the UI framework visit [Vue](https://vuejs.org). There are two parts of this lab.You can either execute the app against the APIs available on API Platform or execute the app against the APIs deployed on your local machine. Navigate to the section of your interest.
+In addition to the REST clients we have used to access our APIs we have put together a sample web application using a progressive framework called Vue.js. For more information about the UI framework visit [Vue](https://vuejs.org). There are two parts of this lab. You can either execute the webapp against the APIs available on API Platform or execute the webapp against the APIs deployed on your local machine. Navigate to the section of your interest.
 
 ### Fork the medrecapp project
 Fork the sample medrec app repository from github - https://github.com/vijaykumaryenne/medrecapp in to your Github Account.
