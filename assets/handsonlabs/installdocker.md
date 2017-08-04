@@ -4,9 +4,9 @@ Oracle Code Sydney July 2017
 
 ### Install Docker.
 
-This section will help you deploy the docker software that can be optionally used to run the MedRec applciations.
+This section will help you deploy the docker software that can be optionally used to run the MedRec applications.
 
-To find your platform specific install instructions at [docker.com](https://www.docker.com).
+To find your platform specific install instructions go to [docker.com](https://www.docker.com).
 
 ### 1.1 Install Docker on Ubuntu 16.04
 
@@ -25,6 +25,8 @@ Validate the docker installation and that the docker daemon is up and running:
 
 ```
 sudo docker --version
+```
+```
 sudo systemctl status docker
 ```
 You should see: “Active: active (running) since…”

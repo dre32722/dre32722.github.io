@@ -20,13 +20,13 @@ For example.
 
 To list any running Docker containers using the following command.
 
-``` docker ps ```
+``` sudo docker ps ```
 
 <img src="./img/buildthedockerimage-1.PNG" />
 
 To list any existing Docker images using the following command.
 
-``` docker images ```
+``` sudo docker images ```
 
 <img src="./img/buildthedockerimage-2.PNG" />
 
@@ -38,13 +38,13 @@ Ensure docker-compose is installed
 
 Now, build the docker image using the following command.
 
-``` docker-compose build ```
+``` sudo docker-compose build ```
 
 <img src="./img/buildthedockerimage-4.PNG" />
 
 Next, list the Docker images again to view the new image.
 
-``` docker images ```
+``` sudo docker images ```
 
 <img src="./img/buildthedockerimage-5.PNG" />
 
@@ -52,35 +52,43 @@ Next, list the Docker images again to view the new image.
 
 Next, run the docker containers using the following command.
 
-``` docker-compose up ```
+``` sudo docker-compose up ```
 
-At the start you should see output generated similar to the following;
+At the start you should see output generated similar to the following:
 
 <img src="./img/buildthedockerimage-6.PNG" />
+
+*Be patient while it downloads the Mongo image from DockerHub.*
 
 Further down you should see output generated similar to the following;
 
 <img src="./img/buildthedockerimage-6a.PNG" />
 
-You may see the following errors if MongoDB and the Node application are still running locally due to port clash.
+**Note: If you see the following error, it means that there are ports clashing due to MongoDB and the Node application are still running locally.**
 
 <img src="./img/buildthedockerimage-7.PNG" />
 
-Determine the IP address to access your APIs running in the Docker container.
-On Ununtu you can do a sudo /sbin/ifconfig to list the Ip address assigned to the Docker container and to the VM.
-For instance in the following screenshot you will see the IP addresses assigned to my enp0s3 (10.0.0.3) and docker0 (172.17.0.1) interfaces.
+Once the MedRec Application is running successfully, determine the IP address to access your APIs running in the Docker container.
 
-From a broswer in my Ubuntu VM I could access using http://172.17.0.1:3000/ and from my Windows host I could use http://10.0.0.3:3000
+On Linux, in another terminal do a **sudo /sbin/ifconfig** to list the IP address assigned to the Docker container and to the VM. For instance, in the following screenshot you will see the IP addresses assigned to my **enp0s3(10.0.0.1)** and **docker0 (172.17.0.1)** interfaces.
+
+This means that from a broswer **inside my Ubuntu VM** I could access using **http://172.17.0.1:3000** and from outside the VM, in the **host machine**, I could use **http://10.0.0.1:3000**
 
 <img src="./img/buildthedockerimage-7a.PNG" />
 
-Launch a browser on your browser and point it to http://yourIPaddress:3000
+Launch a browser and make sure that you can access the MedRec Swagger UI using either IP Address **http://IPaddress:3000**
 
+This image is accessing the Swagger UI from within the Ubuntu VM:
 <img src="./img/buildthedockerimage-8.PNG" />
 
-Interact with the SwaggerUI to do Get / Post operations and note the log output.
+While this one is accessing the Swagger UI from outside the VM, but within the Host Machine:
+<img src="./img/buildthedockerimage-8b.PNG" />
+
+Interact with the SwaggerUI to do **GET / POST** operations and note the log output.
 
 <img src="./img/buildthedockerimage-9.PNG" />
+
+<br><br>
 
 * No warranty expressed or implied.  Software is as is.
 * [MIT License](http://www.opensource.org/licenses/mit-license.html)

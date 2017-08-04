@@ -12,11 +12,11 @@ Please complete the following steps prior to the event.
 
    Note : You must use the same email address as you used to register for Oracle Code.
 
-2. Assuming you dont already have an account on GitHub, then create an account on 
-   [GitHub](https://github.com/) , by clicking Sign Up.
+2. Assuming you dont already have an account on GitHub, then 
+<a href="https://github.com/" target="_blank">SignUp For GitHub</a>
 
-3. Assuming you dont already have an account on Docker Hub, then create an account on 
-   [Docker Hub](https://cloud.docker.com/)
+3. Assuming you dont already have an account on Docker Hub, then 
+<a href="https://cloud.docker.com/" target="_blank">SignUp For Docker Hub</a>
 
 4. As part of the HOL multiple software components will need to be installed in your local development
    environment. Please note that the software installation instructions provided are generic in nature.
@@ -34,8 +34,8 @@ Please complete the following steps prior to the event.
 
    You may want to use a Virtual Box image to install the required software into.
    If so, this approach may help you get started;
-   a) [Download VirtualBox Software](https://www.virtualbox.org/wiki/Downloads)
-   b) [Download Ubuntu 16.04 (64 bit) VBox Image](http://www.osboxes.org/ubuntu/)
+   a) <a href="https://www.virtualbox.org/wiki/Downloads" target="_blank">Download VirtualBox Software</a>
+   b) <a href="http://www.osboxes.org/ubuntu/" target="_blank">Download Ubuntu 16.04 (64 bit) VBox Image</a>
 
    Make sure you do a package update before each of the install steps below as per the following command;
 

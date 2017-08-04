@@ -25,7 +25,6 @@ Click to select your new collection in the left pane.
 
 Any REST requests (once defined) will appear under the collection when it is selected.
 
-<img src="./img/exploretheapis-3-5.PNG" />
 
 ### Specify a GET Request
 
@@ -80,14 +79,17 @@ We now need to specify a Header to specify that our Content-Type is application/
 Click the Headers tab.
 Under the title "Key" start typing Content and select Content-Type from the list that appears.
 
+Adjacent to the Content-Type Header specify "application/json"
+
 <img src="./img/exploretheapis-3-15.PNG" />
 
-Adjacent to the Content-Type Header specify "application/json"
+Click Send. Make sure that you get a successfull 200 HTTP code and that the same entered physician comes back with its new id.
 
 <img src="./img/exploretheapis-3-16.PNG" />
 
-Now save the POST Request into the your collection.
-To test the POST Request , press Send.
+Now save the POST Request into the your collection for future use.
+
+<br>
 
 * No warranty expressed or implied.  Software is as is.
 * [MIT License](http://www.opensource.org/licenses/mit-license.html)

@@ -2,124 +2,141 @@
 
 - Oracle Code Sydney July 2017
 
-### Create the OCCS Stack definition and deploy the container
+### Create the OCCS Instance 
+This section provides instructions to create an OCCS Service Instance, create a Stack definition and deploy the MedRec app and MongoDB into Docker containers on OCCS.
 
-As an alternative to running the APIs locally we may decide to deploy into the Oracle Public Cloud.
-The Oracle Container Cloud Service (OCCS) provides a runtime environment for your Docker containers (essentiually Bring Yopur Own Container)
+It is assumed that you already have registered for an Oracle Public Cloud subscription.
+From the Service Dashboard.
 
-This assumes the user has access to the Oracle Container Cloud Service and involves the following;
-- login to OCCS 
-- create stack in OCCS using yml file
-- deploy the stack
-- access the apis - url 
+Click on the **Container** link
 
-Copy the contents of the occsstack.myl file. 
-We will use this content to define our stack inside the OCCS environment.
+<img src="./img/occs-1.PNG" />
 
-<img src="./img/createtheoccsstack-0.PNG" />
+Click **Open Service Console** button
 
-Login to the Oracle Cloud using the credentials you have received / used during the  sign up process for the Oracle Cloud trial. 
+<img src="./img/occs-2.PNG" />
 
-Note: If you see no services then you will need to click the customise Dashboard to make the services of interest visible on the Dashboard.
+Click **Create Service** button
 
-From the Dashboard click the Container (not the Application Container) link.
+<img src="./img/occs-3.PNG" />
 
-<img src="./img/createtheoccsstack-1.PNG" />
+Give your **Service** a Name and Description.
 
-Click the Open Service Console button
+<img src="./img/occs-4.PNG" />
 
-<img src="./img/createtheoccsstack-2.PNG" />
+For example - as follows
 
-Click the Create Service button.
-Give the service instance a name and specify the number of nodes you want in your Container runtime environment. NOTE : **You will need a minimum of two nodes as one node is dedicated to the Container Console.**
-Also make sure you remember the username / password you specify as this is required for access to the container console.
+<img src="./img/occs-5.PNG" />
 
-<img src="./img/createtheoccsstack-3.PNG" />
+If you have an existing RSA **public/private key pair** choose File to browse for your **Public Key**,
+Otherwise click to Create A New Key.
 
-Assuming you have created a service instance - click the hamburger menu on the far right and choose Container Console.
+<img src="./img/occs-6.PNG" />
 
-<img src="./img/createtheoccsstack-4.PNG" />
+In this example, I used my existing public key from my file system.
 
-You will see an Insecure Connection Message.
-Click the Advanced link and choose to continue.
+<img src="./img/occs-7.PNG" />
 
-<img src="./img/createtheoccsstack-5.PNG" />
+- Specify the username (admin) and password.
+- Choose the compute shape. To preserve your credits I suggest you accept the default value.
+- Choose the number of worker nodes you want to spread your Docker workload across.
 
-Login to the Container Console using the credentials you used when you created the Service Instance.
+In this example, you can get away with 1 worker node to run both the web app container and the MongoDB container.
 
-<img src="./img/createtheoccsstack-6.PNG" />
+- Then, click **Next**
 
-Explore the Container Console
+<img src="./img/occs-8.PNG" />
 
-<img src="./img/createtheoccsstack-7.PNG" />
+Review your configuration on the Summary Page.
+Click **Create**.
 
-Click Stacks in the Left Pane and Click New Stack button (top right)
+<img src="./img/occs-9.PNG" />
 
-<img src="./img/createtheoccsstack-8.PNG" />
+You will see that your Service is being created.
+It took around 5 minutes to provision the service.
+Periodically click the refresh icon to view progress.
 
-The console provides you with a couple of options.
-- Drag and drop from the services on the right to create your stack, or,
-- Click the Advanced Editor link
+<img src="./img/occs-10.PNG" />
 
-Click the Advanced Editor link
+After around 5 minutes the **"Creating Service"** message will disappear as the Service is now created.
 
-<img src="./img/createtheoccsstack-9.PNG" />
+<img src="./img/occs-11.PNG" />
 
-Paste the contents of the occsstack.yml file you copied earlier.
+Click the burger menu on the right side of the service and choose Container Console.
 
-<img src="./img/createtheoccsstack-10.PNG" />
+<img src="./img/occs-12.PNG" />
 
-Your stack definition should look as follows.
-Click Done.
+You will see an insecure site warning message. This is because a trusted certificate has not been associated with this node. For the purpose of this exercise, that's ok, simply click **Advanced**.
 
-<img src="./img/createtheoccsstack-11.PNG" />
+<img src="./img/occs-13.PNG" />
 
-Give your Stack a name under the Stack Name title (eg MedRecOCCS).
+Then, click to **Proceed and ignore** the warning.
 
-<img src="./img/createtheoccsstack-12.PNG" />
+<img src="./img/occs-14.PNG" />
 
-Your stack should appear in the list of available stacks.
+Enter the credentials you specified when you created the service
 
-<img src="./img/createtheoccsstack-13.PNG" />
+<img src="./img/occs-15.PNG" />
 
-Before you deploy the stack, click the Resource Pool from left menu.
-Note that the default pool has the hosts that you specified when you created the service minus the one node allocated to the admin / console function. When you deploy a stack you need to specify the resource pool.
+In the Container Console note the number of **hosts** allocated to the default Resource Pool. This corresponds to the number of nodes that you entered while provisioning.
 
-Click the Active Hosts section within the default Resource Pool.
+<img src="./img/occs-16.PNG" />
 
-<img src="./img/createtheoccsstack-14.PNG" />
+To define a Stack - Click **Stacks** in the left hand menu. Then, click the **New Stack** button.
 
-You should now see the worker node hosts that are part of your 'default' Resource Pool.
+<img src="./img/occs-17.PNG" />
 
-<img src="./img/createtheoccsstack-15.PNG" />
+Click **Advanced Editor**
 
-Click on the IP address to see the public IP address of the various hosts.
-Depending on which worker node is used for the docker stack deployment you will need to get the IP address to test the SwaggerUI.
+<img src="./img/occs-18.PNG" />
 
-<img src="./img/createtheoccsstack-16.PNG" />
+Copy the contents of the **occs-stack.yml** file (it is located in the ankimedrec-apis project you git forked previously).
+Paste the contents into the Advanced Editor.
+Notice that the stack defintion contains two linked services - one for Node.js application, the other for MongoDB.
 
+Then, click **Done**
 
-<img src="./img/createtheoccsstack-17.PNG" />
+<img src="./img/occs-19.PNG" />
 
-<img src="./img/createtheoccsstack-18.PNG" />
+*Notice that the Stack will graphically represent the associated nodes and their relationship.*
 
-<img src="./img/createtheoccsstack-19.PNG" />
+Name your Stack something meaningful eg MedRec. Then press **Save**
 
-<img src="./img/createtheoccsstack-20.PNG" />
+<img src="./img/occs-20.PNG" />
 
-<img src="./img/createtheoccsstack-21.PNG" />
+In the list of available Stacks you should now see your MedRec stack.
 
-<img src="./img/createtheoccsstack-22.PNG" />
+Click the green **Deploy** button to deploy your MedRec Stack.
 
-<img src="./img/createtheoccsstack-23.PNG" />
+<img src="./img/occs-21.PNG" />
 
-<img src="./img/createtheoccsstack-24.PNG" />
+In the Orchestration dialog, you can choose the number of instances to be deployed per container. For now, simply accept the defaults and press **Deploy**.
 
-<img src="./img/createtheoccsstack-25.PNG" />
+<img src="./img/occs-22.PNG" />
 
-<img src="./img/createtheoccsstack-26.PNG" />
+You will see some activity and the screen will flash orange and green until both services are up and running.
 
-<img src="./img/createtheoccsstack-27.PNG" />
+<img src="./img/occs-23.PNG" />
+
+When the screen displays green for both services, click the **Hostname** that the stack has been deployed to.
+
+<img src="./img/occs-24.PNG" />
+
+In the page showing details about the specific host (worker node) that the stack is running on, you will see the **Public IP address**.
+
+<img src="./img/occs-25.PNG" />
+
+In a new browser tab - enter **http://[The_IP_of_the_worker_node]:3000**
+You should now see the Swagger UI.
+
+<img src="./img/occs-26.PNG" />
+
+Do a **GET** Request. It should return an empty collection of Physicians.
+
+Do some **POST** Requests to add some Physicians and Patients. Then repeat the **GET** Request to confirm that the new record were fetched from the MongoDB database via the API call.
+
+<br>
+<br>
 
 * No warranty expressed or implied.  Software is as is.
 * [MIT License](http://www.opensource.org/licenses/mit-license.html)

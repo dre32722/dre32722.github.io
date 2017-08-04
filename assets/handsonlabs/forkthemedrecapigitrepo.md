@@ -4,14 +4,14 @@
 
 ### Fork The MedRecAPI Git Repository into your GitHub account
 
-This section provides instructions to fork the Git Repository for the mecrecapi project.
+This section provides instructions to fork the Git Repository for the ankimecrec-apis project.
 Forking a repository allows you to make a copy of an existing repository and you can make changes in your own space without impacting the original project. 
 
 Point your browser to [GitHub.com](https://github.com) 
 
 <img src="./img/git1.PNG" />
 
-Click Sign Up and enter your credentials.
+Click Sign In and enter your credentials.
 
 <img src="./img/git2.PNG" />
 
@@ -28,7 +28,7 @@ Now click the hyperlink to navigate to the barackd222/ankimedrec-apis repository
 
 <img src="./img/git5.PNG" />
 
-Click the fork button (circled in red) to create a copy of the anki-medrecapis repository in your account.
+Click the fork button (circled in red) to create a copy of the ankimedrec-apis repository in your account.
 
 <img src="./img/git6.PNG" />
 

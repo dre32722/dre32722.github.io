@@ -62,7 +62,7 @@ Key in the Physician Details and hit save.
 <img src="./img/medrecApp-7.PNG" />
 <img src="./img/medrecApp-8.PNG" />
 
-10. Try the Delete Functionality.
+10. Try out the Delete Functionality.
 
 <br>
 
@@ -110,7 +110,7 @@ Key in the Physician Details and hit save.
 <img src="./img/medrecApp-7.PNG" />
 <img src="./img/medrecApp-8.PNG" />
 
-10. Try the Delete Functionality.
+10. Try out the Delete Functionality.
 
 * No warranty expressed or implied.  Software is as is.
 * [MIT License](http://www.opensource.org/licenses/mit-license.html)
