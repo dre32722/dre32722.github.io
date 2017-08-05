@@ -20,20 +20,19 @@ Below are four short videos that will quickly walk you through an Overview of th
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/9ra_guIjce8?rel=0" frameborder="0" allowfullscreen></iframe>
 
+[Can't wait? - Access the APIs now](http://developers.oracleau.cloud)
+
+[Want a complete set of instructions to have a local development environment check out the OracleCode HandsOn Lab](handsonlabs.md) 
 
 ### Learn MORE about how to integrate to the MedRec API's
+[SaaS to SaaS Journey - Integration with SaaS and MedRec APIs - Overview (3mins)](https://www.youtube.com/embed/Xi7Scn2XZ0Q)
+[SaaS to SaaS Journey - Integration Cloud Service Orchestration Explained (3mins)](https://www.youtube.com/embed/WgHDzPgW3wQ)
+[SaaS to SaaS Journey - Integration - Live demo (5mins)](https://www.youtube.com/embed/fArQmkFxmng)
 
-SaaS to SaaS Journey - Integration with SaaS and MedRec APIs - Overview (3mins)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xi7Scn2XZ0Q" frameborder="0" allowfullscreen></iframe>
+[](<iframe width="560" height="315" src="https://www.youtube.com/embed/Xi7Scn2XZ0Q" frameborder="0" allowfullscreen></iframe>)
+[](<iframe width="560" height="315" src="https://www.youtube.com/embed/WgHDzPgW3wQ" frameborder="0" allowfullscreen></iframe>)
+[](<iframe width="560" height="315" src="https://www.youtube.com/embed/fArQmkFxmng" frameborder="0" allowfullscreen></iframe>)
 
-SaaS to SaaS Journey - Integration Cloud Service Orchestration Explained (3mins)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WgHDzPgW3wQ" frameborder="0" allowfullscreen></iframe>
-
-SaaS to SaaS Journey - Integration - Live demo (5mins)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fArQmkFxmng" frameborder="0" allowfullscreen></iframe>
-
-
-[Access the APIs](http://developers.oracleau.cloud) | [OracleCode HandsOn Lab](handsonlabs.md) |
 
 For more detailed information click on the following link [Anki-MedRec Explained](index.md)
 
