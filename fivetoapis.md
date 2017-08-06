@@ -27,9 +27,9 @@ Below are four short videos that will quickly walk you through an Overview of th
 [OracleCode HandsOn Lab](handsonlabs.md) 
 
 ### Learn MORE about how to integrate to the MedRec API's
-[![SaaS to SaaS Journey - Integration to SaaS and MedRec APIs - Overview 3mins](http://img.youtube.com/vi/Xi7Scn2XZ0Q/3.jpg)(https://www.youtube.com/embed/Xi7Scn2XZ0Q "MedRec APIs and SaaS Integration Overview")|
-[![SaaS to SaaS Journey - Orchestrate your SaaS and MedRec APIs Explained 3mins](http://img.youtube.com/vi/WgHDzPgW3wQ/2.jpg)(https://www.youtube.com/embed/WgHDzPgW3wQ " ICS SaaS and API Orchestration Explained")|
-[![SaaS to SaaS Journey - SaaS and MedRec API Integration End to End Demo 5mins](http://img.youtube.com/vi/fArQmkFxmng/2.jpg)(https://www.youtube.com/embed/fArQmkFxmng "SaaS To SaaS and MedRec Integration Demo")|
+[![SaaS to SaaS Journey - Integration to SaaS and MedRec APIs - Overview 3mins](http://img.youtube.com/vi/Xi7Scn2XZ0Q/3.jpg)(https://www.youtube.com/embed/Xi7Scn2XZ0Q)|
+[![SaaS to SaaS Journey - Orchestrate your SaaS and MedRec APIs Explained 3mins](http://img.youtube.com/vi/WgHDzPgW3wQ/2.jpg)(https://www.youtube.com/embed/WgHDzPgW3wQ) |
+[![SaaS to SaaS Journey - SaaS and MedRec API Integration End to End Demo 5mins](http://img.youtube.com/vi/fArQmkFxmng/2.jpg)(https://www.youtube.com/embed/fArQmkFxmng)|
 
 For more detailed information click on the following link [Anki-MedRec Explained](index.md)
 
