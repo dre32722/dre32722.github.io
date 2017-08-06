@@ -29,13 +29,16 @@ Below are four short videos that will quickly walk you through an Overview of th
 ### Learn MORE about how to integrate to the MedRec API's
 
 #### SaaS to SaaS and MedRec Integration Overview (3 minutes)
-[![Integrate SaaS and MedRec APIs Overview 3mins](http://img.youtube.com/vi/Xi7Scn2XZ0Q/3.jpg)](https://www.youtube.com/embed/Xi7Scn2XZ0Q "Integration Overview")|
+
+[![Integrate SaaS and MedRec APIs Overview 3mins](http://img.youtube.com/vi/Xi7Scn2XZ0Q/3.jpg)](https://www.youtube.com/embed/Xi7Scn2XZ0Q "Integration Overview")
 
 #### SaaS To SaaS and MedRec Integration Using ICS Explained (3 minutes)
-[![SaaS to SaaS Journey - Orchestrate your SaaS and MedRec APIs Explained](http://img.youtube.com/vi/WgHDzPgW3wQ/2.jpg)](https://www.youtube.com/embed/WgHDzPgW3wQ "SaaS To MedRec Integration Using ICS Explained") |
+
+[![SaaS to SaaS Journey - Orchestrate your SaaS and MedRec APIs Explained](http://img.youtube.com/vi/WgHDzPgW3wQ/2.jpg)](https://www.youtube.com/embed/WgHDzPgW3wQ "SaaS To MedRec Integration Using ICS Explained") 
 
 #### SaaS To SaaS and MedRec API Integration End to End Demo (5 minutes)
-[![SaaS to SaaS Journey - SaaS and MedRec API Integration End to End Demo](http://img.youtube.com/vi/fArQmkFxmng/2.jpg)](https://www.youtube.com/embed/fArQmkFxmng "Integration End to End Demonstration")|
+
+[![SaaS to SaaS Journey - SaaS and MedRec API Integration End to End Demo](http://img.youtube.com/vi/fArQmkFxmng/2.jpg)](https://www.youtube.com/embed/fArQmkFxmng "Integration End to End Demonstration")
 
 For more detailed information click on the following link [Anki-MedRec Explained](index.md)
 
