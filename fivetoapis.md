@@ -54,7 +54,7 @@ For more detailed information click on the following link [Anki-MedRec Explained
 
 <hr />
 <center>
-<a href="index.md" class="btn" >Back to Home Page</a>
+<a href="index" class="btn" >Back to Home Page</a>
 <center />
 <hr />
 
