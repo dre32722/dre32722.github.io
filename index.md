@@ -1,21 +1,12 @@
 ## The Anki-MedRec Platform
 
-The Anki-MedRec initiative is essentially an experimental platform with some basic elements at its core such as:
- 
 - a System of Record (Avitek- MedRec) to act as a discussion point around Systems of Record, and the need to differentiate and innovate outside of the Systems of Record.
-- a re-developed version of the MedRec demo application based on a Microservices based approach to deliver learnings around developing Cloud Native Applications and DevOps.
 - some basic CRUD APIs against MedRec to provide a starting point upon which participants can bring their innovative ideas to explore and prove.
-- a sample User Interface that interacts with the new microservices-based APIs to demonstrate what is required and possible when improving customer experience.
 
 The Anki-MedRec will serve as a vehicle to overlay innovative ideas and implement them using various Cloud Services (IaaS, PaaS, SaaS) and Open Source software. We hope that it will encourage learning and innovation from a number of perspectives whether you are running a workshop, running a conference, a hackathon or just self-learning around the following areas:
 
-- Polyglot Development (Java, JavaScript, Python, Node.js etc)
 - APIs
-- Integration
-- Security
 - Containers
-- Source Code Management and Control (GitHub)
-- Operating System (Linux)
 - Mobility, Chatbots, Robotics (including Cozmo from Anki)
 
 <center>
@@ -32,30 +23,25 @@ So by now you have already worked it out, we have developed the API's to help us
 
 The MedRec Platform Playpen supports a diverse range of users and activities, such as:
 
--	Business Managers walking through functional demonstrations of a Digital Platform
--	Platform Architects walking through technical aspects of a Digital Platform
-- 	Growing set of Speed To Value Workshops:
-    - Cloud Made Easy
-    - APIs Made Easy
-    - Development Made Easy
-    - Others
--	Cloud Platform Service Providers such as Rubicon Red, Limepoint, DXC RedRock etc
+-	Managers walking through functional demonstrations of a Digital Platform
 -	Developers participating in Hackathons
 -	University Students
 -	Community Involvement - essentially anyone who is interested in improving their understanding of what makes a Cloud Based Digital Platform.
 
-### Get Started with AnkiMedRec-APIs Version 2 
+### Get Started with AnkiMedRec-APIs
 
 The AnkiMedRec version 2 APIs are based on Node.js and interact with MongoDB as the datastore.
-Getting started with the APIs is easy. All you need to do is register as a developer to obtain an API key and follow the hands on lab instructions to do all / any of the following;
+The quickest way to get started is to click the Get Started link below. 
+
+[Get Started With APIs in Less Than 5 Minutes](fivetoapis.md)|[Register to access the APIs](http://developers.oracleau.cloud) | [Comprehensive HandsOn Tutorials](handsonlabs.md) | [Hackathons](hackathons.md) | 
+
+If you want to preserve the data you create then all you need to do is register as a developer by providing a username and password and you will be provided an API key.  You can then follow the hands on tutorials to do all / any of the following;
 
 1. Access the APIs hosted on the Oracle Cloud protected by the Oracle API Platform Cloud Service.
-2. Setup your local development environment 
+2. Setup your local development environment with Node.js, MongoDB and Docker 
 3. Run the APIs on your laptop
 4. Run the APIs inside a local Docker container
 5. Run the APIs inside a Docker Container provided by the Oracle Container Cloud Service 
-
-[Get Started With APIs in Less Than 5 Minutes](fivetoapis.md)|[Register to access the APIs](http://developers.oracleau.cloud) | [OracleCode HandsOn Lab](handsonlabs.md) | [Hackathons](hackathons.md) |
 
 ### Accessing the APIs using your API Key 
 
