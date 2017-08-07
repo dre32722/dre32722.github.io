@@ -33,7 +33,8 @@ The MedRec Platform Playpen supports a diverse range of users and activities, su
 The AnkiMedRec version 2 APIs are based on Node.js and interact with MongoDB as the datastore.
 The quickest way to get started is to click the Get Started link below. 
 
-[Get Started With APIs in Less Than 5 Minutes](fivetoapis.md)|[Register to access the APIs](http://developers.oracleau.cloud) | [Comprehensive HandsOn Tutorials](handsonlabs.md) | [Hackathons](hackathons.md) | 
+[Get Started With APIs in Less Than 5 Minutes](fivetoapis.md)|[Register to access the APIs](http://developers.oracleau.cloud) | [Comprehensive HandsOn Tutorials](handsonlabs.md) | [Hackathons](hackathons.md) | [Additional Video Tutorials](videos.md) | 
+ 
 
 If you want to preserve the data you create then all you need to do is register as a developer by providing a username and password and you will be provided an API key.  You can then follow the hands on tutorials to do all / any of the following;
 
