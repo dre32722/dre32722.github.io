@@ -1,19 +1,4 @@
-## Getting Started with the Anki-MedRec APIs
-
-We've made it easy for you to get started.
-Below are four short videos that will get you started.
-
-1. How to access the API's. 
-
-2. An Overview of the Anki-Medrec initiative 
-
-3. Why API's are important to the modern business
-
-4. What our approach was to develop the MedRec APIs
-
-### 1. Learn HOW to Access the MedRec API's in less than 5 minutes
-
-<iframe width="854" height="480" src="https://www.youtube.com/embed/lpen1stGKio?rel=0" frameborder="0" allowfullscreen></iframe>
+## Learn HOW to Access the MedRec API's in less than 5 minutes
 
 The steps covered in the video are as follows;
 1. In your browser click the following link [Access the APIs now](http://developers.oracleau.cloud)
@@ -27,15 +12,19 @@ The steps covered in the video are as follows;
 9. Click the blue Execute button and note that the physician should have been added.
 10. Go back to the GET /physician operation and press the blue execute button. You should now see that they physician you added has been returned by the GET operation.
 
-### 2. Anki-MedRec Overview Video:
+### Anki-MedRec Access The APIs (5 minute) Video:
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/lpen1stGKio?rel=0" frameborder="0" allowfullscreen></iframe>
+
+### Anki-MedRec Overview Video:
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/MDGg1r9CtCw?rel=0" frameborder="0" allowfullscreen></iframe>
 
-### 3. Learn WHY API's are important for the modern business (8 minute video)
+### Learn WHY API's are important for the modern business (8 minute video)
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/9Eukapq75vs?rel=0" frameborder="0" allowfullscreen></iframe>
 
-### 4. Learn WHAT we did to design, create, deploy and secure the API's
+### Learn WHAT we did to design, create, deploy and secure the API's
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UGMhGAMg7Aw" frameborder="0" allowfullscreen></iframe>
 
