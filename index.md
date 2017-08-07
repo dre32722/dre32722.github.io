@@ -55,7 +55,7 @@ Getting started with the APIs is easy. All you need to do is register as a devel
 4. Run the APIs inside a local Docker container
 5. Run the APIs inside a Docker Container provided by the Oracle Container Cloud Service 
 
-[Register to access the APIs](http://developers.oracleau.cloud) | [OracleCode HandsOn Lab](handsonlabs.md) | [Hackathons](hackathons.md) |
+[Get Started With APIs in Less Than 5 Minutes](fivetoapis.md)|[Register to access the APIs](http://developers.oracleau.cloud) | [OracleCode HandsOn Lab](handsonlabs.md) | [Hackathons](hackathons.md) |
 
 ### Accessing the APIs using your API Key 
 
