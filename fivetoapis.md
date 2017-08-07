@@ -13,7 +13,19 @@ Below are four short videos that will get you started.
 
 ### 1. Learn HOW to Access the MedRec API's in less than 5 minutes
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/9ra_guIjce8?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/lpen1stGKio?rel=0" frameborder="0" allowfullscreen></iframe>
+
+The steps covered in the video are as follows;
+1. In your browser click the following link [Access the APIs now](http://developers.oracleau.cloud)
+2. To launch the Swagger User Interface for the MedRec APIs, Click [Try it now!](https://ankimedrecnodeapis-gse00011671.apaas.us2.oraclecloud.com/anonymous) 
+3. The GET operation should return a list of physicians that exist in the database. Click GET /physicians to find all physicians in the system. 
+4. Click the **Try it out** button on the right
+5. Click the blue Execute button. You may see that the Response Body has an empty array of data as we have not yet created any physicians.
+6. Under Physician, click on the Post /physicians 
+7. Click the **Try it out** button on the right
+8. Edit the example text and provide a name (eg Fred Smith) and speciality (eg General Practitioner) for your physician  
+9. Click the blue Execute button and note that the physician should have been added.
+10. Go back to the GET /physician operation and press the blue execute button. You should now see that they physician you added has been returned by the GET operation.
 
 ### 2. Anki-MedRec Overview Video:
 
